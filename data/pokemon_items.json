@@ -1,0 +1,3542 @@
+[
+  {
+    "name": "Ability Capsule",
+    "category": "Hold items",
+    "effect": "A capsule that allows a Pokémon with two Abilities to switch between these Abilities when it is used."
+  },
+  {
+    "name": "Ability Shield",
+    "category": "",
+    "effect": "An item to be held by a Pokémon. This cute and rather unique-looking shield protects the holder from having its Ability changed by others."
+  },
+  {
+    "name": "Ability Urge",
+    "category": "Battle items",
+    "effect": "When used, it activates the Ability of an ally Pokémon."
+  },
+  {
+    "name": "Abomasite",
+    "category": "Hold items",
+    "effect": "Enables Abomasnow to Mega Evolve during battle."
+  },
+  {
+    "name": "Absolite",
+    "category": "Hold items",
+    "effect": "Enables Absol to Mega Evolve during battle."
+  },
+  {
+    "name": "Absorb Bulb",
+    "category": "Hold items",
+    "effect": "A consumable bulb. If the holder is hit by a Water-type move, its Sp. Atk will rise."
+  },
+  {
+    "name": "Academy Ball",
+    "category": "",
+    "effect": "The academy’s standard-issue ball in a regulation size. Lots of students believe that if you kick it right on the academy emblem, it’ll fly in a straight line."
+  },
+  {
+    "name": "Academy Bottle",
+    "category": "",
+    "effect": "A bottle emblazoned with the academy’s emblem. It’s light, sturdy, and vacuum insulated, so it’ll keep your hots hot and your colds cold."
+  },
+  {
+    "name": "Academy Cup",
+    "category": "",
+    "effect": "The academy’s standard-issue cup for picnicking. The careful design of its mouth makes it popular both inside and outside the academy."
+  },
+  {
+    "name": "Academy Tablecloth",
+    "category": "",
+    "effect": "The academy’s standard-issue tablecloth. It’s made with the latest fiber-processing technology and is so tough that not even a Razor Claw can tear it."
+  },
+  {
+    "name": "Adamant Crystal",
+    "category": "Hold items",
+    "effect": ""
+  },
+  {
+    "name": "Adamant Mint",
+    "category": "Battle items",
+    "effect": "Changes the Pokémon's stats to match the Adamant nature."
+  },
+  {
+    "name": "Adamant Orb",
+    "category": "Hold items",
+    "effect": "Increases the power of Dragon- and Steel-type moves when held by Dialga."
+  },
+  {
+    "name": "Adrenaline Orb",
+    "category": "Hold items",
+    "effect": "Using it makes wild Pokémon more likely to call for help. If held by a Pokémon, it boosts Speed when intimidated. It can be used only once."
+  },
+  {
+    "name": "Aerodactylite",
+    "category": "Hold items",
+    "effect": "Enables Aerodactyl to Mega Evolve during battle."
+  },
+  {
+    "name": "Aggronite",
+    "category": "Hold items",
+    "effect": "Enables Aggron to Mega Evolve during battle."
+  },
+  {
+    "name": "Aguav Berry",
+    "category": "Berries",
+    "effect": "Restores HP if it's low, but may cause confusion."
+  },
+  {
+    "name": "Air Balloon",
+    "category": "Hold items",
+    "effect": "When held by a Pokémon, the Pokémon will float into the air. When the holder is attacked, this item will burst."
+  },
+  {
+    "name": "Alakazite",
+    "category": "Hold items",
+    "effect": "Enables Alakazam to Mega Evolve during battle."
+  },
+  {
+    "name": "Aloraichium Z",
+    "category": "Hold items",
+    "effect": "Allows Alolan Raichu to upgrade Thunderbolt to a Z-Move, Stoked Sparksurfer."
+  },
+  {
+    "name": "Altarianite",
+    "category": "Hold items",
+    "effect": "Enables Altaria to Mega Evolve during battle."
+  },
+  {
+    "name": "Ampharosite",
+    "category": "Hold items",
+    "effect": "Enables Ampharos to Mega Evolve during battle."
+  },
+  {
+    "name": "Amulet Coin",
+    "category": "Hold items",
+    "effect": "Doubles prize money if held."
+  },
+  {
+    "name": "Antidote",
+    "category": "Medicine",
+    "effect": "Cures a Pokémon of poisoning."
+  },
+  {
+    "name": "Apicot Berry",
+    "category": "Berries",
+    "effect": "Raises Special Defense when HP is low."
+  },
+  {
+    "name": "Apple",
+    "category": "",
+    "effect": "This very sweet ingredient is sliced thin to make it easy to add into a sandwich."
+  },
+  {
+    "name": "Aspear Berry",
+    "category": "Berries",
+    "effect": "If held by a Pokémon, it defrosts it."
+  },
+  {
+    "name": "Assault Vest",
+    "category": "Hold items",
+    "effect": "Raises Special Defense but prevents the use of status moves."
+  },
+  {
+    "name": "Audinite",
+    "category": "Hold items",
+    "effect": "Enables Audino to Mega Evolve during battle."
+  },
+  {
+    "name": "Aux Evasion",
+    "category": "Battle items",
+    "effect": "Makes moves less likely to strike a Pokémon during a battle."
+  },
+  {
+    "name": "Aux Guard",
+    "category": "Battle items",
+    "effect": "Sharply boosts the defensive stats of a Pokémon during a battle."
+  },
+  {
+    "name": "Aux Power",
+    "category": "Battle items",
+    "effect": "Sharply boosts the offensive stats of a Pokémon during a battle."
+  },
+  {
+    "name": "Aux Powerguard",
+    "category": "Battle items",
+    "effect": "Sharply boosts the offensive and defensive stats of a Pokémon during a battle."
+  },
+  {
+    "name": "Avocado",
+    "category": "",
+    "effect": "An ingredient with sweet notes—though its flavor is very mild. The avocado’s richness, however, makes it satisfying to eat."
+  },
+  {
+    "name": "Awakening",
+    "category": "Medicine",
+    "effect": "Wakes up a sleeping Pokémon."
+  },
+  {
+    "name": "Babiri Berry",
+    "category": "Berries",
+    "effect": "Weakens a supereffective Steel-type attack against the holding Pokémon."
+  },
+  {
+    "name": "Bacon",
+    "category": "",
+    "effect": "This very salty ingredient has been cooked just shy of charred, making it burst with fragrance and tasty flavor."
+  },
+  {
+    "name": "Baguette",
+    "category": "",
+    "effect": "A long loaf sliced into top and bottom halves. Its aroma of wheat and its straightforward, salty flavor make it pair well with all kinds of sandwich ingredients."
+  },
+  {
+    "name": "Banana",
+    "category": "",
+    "effect": "A very sweet ingredient. This go-to fruit is sweet and rich, and it’s beloved by many Pokémon."
+  },
+  {
+    "name": "Banettite",
+    "category": "Hold items",
+    "effect": "Enables Banette to Mega Evolve during battle."
+  },
+  {
+    "name": "Barred Cup",
+    "category": "",
+    "effect": "A cup that’s as good for using at home as on a picnic. It’s light, sturdy, and stacks well, so it’s a cinch to pack up and carry around."
+  },
+  {
+    "name": "Basil",
+    "category": "",
+    "effect": "A very bitter ingredient that’s quite versatile, as herbs go. It’s fragrant and goes well with tomatoes."
+  },
+  {
+    "name": "Battle Tablecloth",
+    "category": "",
+    "effect": "A garish, eye-catching tablecloth. Putting this on your picnic table will inspire any person or Pokémon who eats there to do their best."
+  },
+  {
+    "name": "Beedrillite",
+    "category": "Hold items",
+    "effect": "Enables Beedrill to Mega Evolve during battle."
+  },
+  {
+    "name": "Belue Berry",
+    "category": "Berries",
+    "effect": "A Berry which is very rare in the Unova region. A maniac will buy it for a high price."
+  },
+  {
+    "name": "Berry Juice",
+    "category": "Medicine",
+    "effect": "Restores 20 HP."
+  },
+  {
+    "name": "Berry Sweet",
+    "category": "Hold items",
+    "effect": "Evolves Milcery into Blueberry Flavor Alcremie."
+  },
+  {
+    "name": "Big Bamboo Shoot",
+    "category": "",
+    "effect": "A large and rare bamboo shoot. It’s extremely popular with a certain class of gourmands."
+  },
+  {
+    "name": "Big Malasada",
+    "category": "Medicine",
+    "effect": "Heals all major status conditions."
+  },
+  {
+    "name": "Big Root",
+    "category": "Hold items",
+    "effect": "Recovers more HP from HP-stealing moves."
+  },
+  {
+    "name": "Binding Band",
+    "category": "Hold items",
+    "effect": "A band that increases the power of binding moves when held."
+  },
+  {
+    "name": "Bitter Herba Mystica",
+    "category": "",
+    "effect": "A legendary condiment with a deeply bitter taste. It’s said to dramatically bolster a body’s immune defenses, though that hasn’t been proven."
+  },
+  {
+    "name": "Black Belt",
+    "category": "Hold items",
+    "effect": "Increases the power of Fighting-type moves."
+  },
+  {
+    "name": "Black Glasses",
+    "category": "Hold items",
+    "effect": "Increases the power of Dark-type moves."
+  },
+  {
+    "name": "Black Sludge",
+    "category": "Hold items",
+    "effect": "A held item that gradually restores the HP of Poison-type Pokémon. It inflicts damage on all other types."
+  },
+  {
+    "name": "Blank Plate",
+    "category": "Hold items",
+    "effect": ""
+  },
+  {
+    "name": "Blastoisinite",
+    "category": "Hold items",
+    "effect": "Enables Blastoise to Mega Evolve during battle."
+  },
+  {
+    "name": "Blazikenite",
+    "category": "Hold items",
+    "effect": "Enables Blaziken to Mega Evolve during battle."
+  },
+  {
+    "name": "Blue Bottle",
+    "category": "",
+    "effect": "A go-to bottle widely used for drinks at picnics. Its simple design and portability make it popular among all sorts of people."
+  },
+  {
+    "name": "Blue Cup",
+    "category": "",
+    "effect": "A cup sold with the Blue Bottle. The two don’t stack, so they’re tough to pack—but they look good, so they’re popular with those who like to post picnic photos."
+  },
+  {
+    "name": "Blue Dish",
+    "category": "",
+    "effect": "A dish for picnics. Comes in plenty of colors to choose from based on the food or the mood. The blue variety is a consistent strong seller."
+  },
+  {
+    "name": "Blue-Flag Pick",
+    "category": "",
+    "effect": "This pick flies a blue flag that lends an air of adventure. The flag itself is made of card stock, so it’ll fly proudly even with no wind."
+  },
+  {
+    "name": "Blue Poké Ball Pick",
+    "category": "",
+    "effect": "A sandwich pick with a simple blue Poké Ball design. Often used by Trainers who picked a Water-type Pokémon for their first partner."
+  },
+  {
+    "name": "Blue-Sky Flower Pick",
+    "category": "",
+    "effect": "A flower pick designed to evoke a blue sky. It’s part of a line of “sky-flower” picks. Using a few is guaranteed to boost that special picnic spirit."
+  },
+  {
+    "name": "Blue Tablecloth",
+    "category": "",
+    "effect": "A simple blue tablecloth. It’s smooth and pleasant to the touch, and dishes can be placed on it with hardly a sound."
+  },
+  {
+    "name": "Bluk Berry",
+    "category": "Berries",
+    "effect": "A Berry which is very rare in the Unova region. A maniac will buy it for a high price."
+  },
+  {
+    "name": "Blunder Policy",
+    "category": "Hold items",
+    "effect": "Raises Speed sharply if its attack misses."
+  },
+  {
+    "name": "Bold Mint",
+    "category": "Battle items",
+    "effect": "Changes the Pokémon's stats to match the Bold nature."
+  },
+  {
+    "name": "Booster Energy",
+    "category": "",
+    "effect": "An item to be held by Pokémon with certain Abilities. The energy that fills this capsule boosts the strength of the Pokémon."
+  },
+  {
+    "name": "Brave Mint",
+    "category": "Battle items",
+    "effect": "Changes the Pokémon's stats to match the Brave nature."
+  },
+  {
+    "name": "Bright Powder",
+    "category": "Hold items",
+    "effect": "Lowers the opponent's accuracy."
+  },
+  {
+    "name": "Bronze Bottle",
+    "category": "",
+    "effect": "A popular option among hikers. It’s made with titanium, so it doesn’t rust even if it’s used to hold drinks with high sodium content."
+  },
+  {
+    "name": "Bronze Cup",
+    "category": "",
+    "effect": "A popular option among hikers. It’s made with titanium, so it doesn’t rust even if it’s used to hold drinks with high sodium content."
+  },
+  {
+    "name": "Bug Gem",
+    "category": "Hold items",
+    "effect": "Increases the power of a Bug-type move only once."
+  },
+  {
+    "name": "Bug Memory",
+    "category": "Hold items",
+    "effect": "Changes Silvally and its move Multi-Attack to Bug type."
+  },
+  {
+    "name": "Bug Tera Shard",
+    "category": "",
+    "effect": "Changes a Pokémon's Tera Type to Bug."
+  },
+  {
+    "name": "Buginium Z",
+    "category": "Hold items",
+    "effect": "Allows the use of Savage Spin-Out, the Bug type Z-Move."
+  },
+  {
+    "name": "Burn Drive",
+    "category": "Hold items",
+    "effect": "Changes Techno Blast to a Fire-type move when held by Genesect."
+  },
+  {
+    "name": "Burn Heal",
+    "category": "Medicine",
+    "effect": "Cures a Pokémon of a burn."
+  },
+  {
+    "name": "Butter",
+    "category": "",
+    "effect": "A condiment that unites salty and sweet and also packs a richness that makes bread a delight to eat. The finest butter products are made of 100 percent Moomoo Milk."
+  },
+  {
+    "name": "B&W Grass Tablecloth",
+    "category": "",
+    "effect": "A tablecloth with a fun, trendy black-and-white design featuring Pokémon that seem poised to leap from the tall grass at any moment."
+  },
+  {
+    "name": "Calcium",
+    "category": "Medicine",
+    "effect": "Increases Special Attack EVs by 10."
+  },
+  {
+    "name": "Calm Mint",
+    "category": "Battle items",
+    "effect": "Changes the Pokémon's stats to match the Calm nature."
+  },
+  {
+    "name": "Cameruptite",
+    "category": "Hold items",
+    "effect": "Enables Camerupt to Mega Evolve during battle."
+  },
+  {
+    "name": "Carbos",
+    "category": "Medicine",
+    "effect": "Increases Speed EVs by 10."
+  },
+  {
+    "name": "Careful Mint",
+    "category": "Battle items",
+    "effect": "Changes the Pokémon's stats to match the Careful nature."
+  },
+  {
+    "name": "Casteliacone",
+    "category": "Medicine",
+    "effect": "Heals all major status conditions."
+  },
+  {
+    "name": "Cell Battery",
+    "category": "Hold items",
+    "effect": "A consumable battery. If the holder is hit by an Electric-type move, its Attack will rise."
+  },
+  {
+    "name": "Charcoal",
+    "category": "Hold items",
+    "effect": "Increases the power of Fire-type moves."
+  },
+  {
+    "name": "Charizardite X",
+    "category": "Hold items",
+    "effect": "Enables Charizard to Mega Evolve during battle."
+  },
+  {
+    "name": "Charizardite Y",
+    "category": "Hold items",
+    "effect": "Enables Charizard to Mega Evolve during battle."
+  },
+  {
+    "name": "Charti Berry",
+    "category": "Berries",
+    "effect": "Weakens a supereffective Rock-type attack against the holding Pokémon."
+  },
+  {
+    "name": "Cheese",
+    "category": "",
+    "effect": "A very salty ingredient. This thinly sliced cheese is perfect for adding to a sandwich."
+  },
+  {
+    "name": "Cheri Berry",
+    "category": "Berries",
+    "effect": "If held by a Pokémon, it recovers from paralysis."
+  },
+  {
+    "name": "Cherry Tomatoes",
+    "category": "",
+    "effect": "A very tart ingredient. Some varieties are also very sweet, and these are prized above all others by the people of Paldea."
+  },
+  {
+    "name": "Chesto Berry",
+    "category": "Berries",
+    "effect": "If held by a Pokémon, it recovers from sleep."
+  },
+  {
+    "name": "Chilan Berry",
+    "category": "Berries",
+    "effect": "Weakens a Normal-type attack against the Pokémon holding this berry."
+  },
+  {
+    "name": "Chili Sauce",
+    "category": "",
+    "effect": "A condiment with a very spicy kick. It’s thanks to Scovillain that this sauce gets its signature mouth-tingling burn."
+  },
+  {
+    "name": "Chill Drive",
+    "category": "Hold items",
+    "effect": "Changes Techno Blast to an Ice-type move when held by Genesect."
+  },
+  {
+    "name": "Chipped Pot",
+    "category": "Hold items",
+    "effect": "Evolves Sinistea into Polteageist."
+  },
+  {
+    "name": "Choice Band",
+    "category": "Hold items",
+    "effect": "Raises Attack, but only one move can be used."
+  },
+  {
+    "name": "Choice Scarf",
+    "category": "Hold items",
+    "effect": "Raises Speed, but only one move can be used."
+  },
+  {
+    "name": "Choice Specs",
+    "category": "Hold items",
+    "effect": "Raises Special Attack, but only one move can be used."
+  },
+  {
+    "name": "Chople Berry",
+    "category": "Berries",
+    "effect": "Weakens a supereffective Fighting-type attack against the holding Pokémon."
+  },
+  {
+    "name": "Chorizo",
+    "category": "",
+    "effect": "A very salty and spicy ingredient. This type of sausage has particularly robust salty flavor, and the spicier varieties are extra popular."
+  },
+  {
+    "name": "Cleanse Tag",
+    "category": "Hold items",
+    "effect": "An item to be held by a Pokémon. It helps keep wild Pokémon away if the holder is the first one in the party."
+  },
+  {
+    "name": "Clear Amulet",
+    "category": "",
+    "effect": "An item to be held by a Pokémon. This clear, sparkling amulet protects the holder from having its stats lowered by moves used against it or by other Pokémon’s Abilities."
+  },
+  {
+    "name": "Clever Feather",
+    "category": "Medicine",
+    "effect": "Increases Special Defense EVs by 1."
+  },
+  {
+    "name": "Clever Mochi",
+    "category": "Medicine",
+    "effect": "Increases Special Defense EVs."
+  },
+  {
+    "name": "Clover Sweet",
+    "category": "Hold items",
+    "effect": "Evolves Milcery into Clover Flavor Alcremie."
+  },
+  {
+    "name": "Coba Berry",
+    "category": "Berries",
+    "effect": "Weakens a supereffective Flying-type attack against the holding Pokémon."
+  },
+  {
+    "name": "Colbur Berry",
+    "category": "Berries",
+    "effect": "Weakens a supereffective Dark-type attack against the holding Pokémon."
+  },
+  {
+    "name": "Cornn Berry",
+    "category": "Berries",
+    "effect": "A Berry which is very rare in the Unova region. A maniac will buy it for a high price."
+  },
+  {
+    "name": "Courage Candy",
+    "category": "Medicine",
+    "effect": "Increases a Pokémon's Special Defense stat by 1."
+  },
+  {
+    "name": "Courage Candy L",
+    "category": "Medicine",
+    "effect": "Increases a Pokémon's Special Defense stat."
+  },
+  {
+    "name": "Courage Candy XL",
+    "category": "Medicine",
+    "effect": "Increases a Pokémon's Special Defense stat."
+  },
+  {
+    "name": "Covert Cloak",
+    "category": "Hold items",
+    "effect": "Conceals the holder, protecting it from the additional effects of moves."
+  },
+  {
+    "name": "Cracked Pot",
+    "category": "Hold items",
+    "effect": "Evolves Sinistea into Polteageist."
+  },
+  {
+    "name": "Cream Cheese",
+    "category": "",
+    "effect": "A condiment offering very sweet and very tart flavor. It goes well with more ingredients than you’d expect, making it a convenient go-to."
+  },
+  {
+    "name": "Cucumber",
+    "category": "",
+    "effect": "A tart and bitter ingredient. Using it together with rich-tasting ingredients in a sandwich will really make the most of a cucumber’s fresh-veggie aroma."
+  },
+  {
+    "name": "Curry Powder",
+    "category": "",
+    "effect": "A very spicy condiment. Just watch out—use too much of this potent seasoning, and it’ll cancel out the other flavors."
+  },
+  {
+    "name": "Custap Berry",
+    "category": "Berries",
+    "effect": "Holder can move first when HP is low."
+  },
+  {
+    "name": "Cyber Ball",
+    "category": "",
+    "effect": "A ball themed after hardcore gaming PCs. It may not light up like its inspiration, but it still stands out."
+  },
+  {
+    "name": "Damp Rock",
+    "category": "Hold items",
+    "effect": "A Pokémon held item that extends the duration of the move Rain Dance used by the holder."
+  },
+  {
+    "name": "Dark Gem",
+    "category": "Hold items",
+    "effect": "Increases the power of a Dark-type move only once."
+  },
+  {
+    "name": "Dark Memory",
+    "category": "Hold items",
+    "effect": "Changes Silvally and its move Multi-Attack to Dark type."
+  },
+  {
+    "name": "Dark Tera Shard",
+    "category": "",
+    "effect": "Changes a Pokémon's Tera Type to Dark."
+  },
+  {
+    "name": "Darkinium Z",
+    "category": "Hold items",
+    "effect": "Allows the use of Black Hole Eclipse, the Dark type Z-Move."
+  },
+  {
+    "name": "Decidium Z",
+    "category": "Hold items",
+    "effect": "Allows Decidueye to upgrade Spirit Shackle to a Z-Move, Sinister Arrow Raid."
+  },
+  {
+    "name": "Deep Sea Scale",
+    "category": "Hold items",
+    "effect": "Increases Special Defense when held by Clamperl. Evolves Clamperl when traded holding the item."
+  },
+  {
+    "name": "Deep Sea Tooth",
+    "category": "Hold items",
+    "effect": "Increases Special Attack when held by Clamperl. Evolves Clamperl when traded holding the item."
+  },
+  {
+    "name": "Destiny Knot",
+    "category": "Hold items",
+    "effect": "A long, thin, bright-red string to be held by a Pokémon. If the holder becomes infatuated, the foe does too."
+  },
+  {
+    "name": "Diamond Bottle",
+    "category": "",
+    "effect": "A diamond-patterned bottle that’s small, light, and even comes with a cup. The detachable strap makes it handy for walking around with."
+  },
+  {
+    "name": "Diamond Pattern Cup",
+    "category": "",
+    "effect": "A cup that’s as good for using at home as on a picnic. It’s light, sturdy, and stacks well, so it’s a cinch to pack up and carry around."
+  },
+  {
+    "name": "Diamond Tablecloth",
+    "category": "",
+    "effect": "A tablecloth with a fashionable diamond pattern. It’s great at repelling water and mold, and stains and smudges wipe right off."
+  },
+  {
+    "name": "Diancite",
+    "category": "Hold items",
+    "effect": "Enables Diancie to Mega Evolve during battle."
+  },
+  {
+    "name": "Digger Drill",
+    "category": "",
+    "effect": "A single-use drill to bore a hole in the wall for your Secret Base."
+  },
+  {
+    "name": "Dire Hit",
+    "category": "Battle items",
+    "effect": "Raises critical-hit ratio of a Pokémon in battle."
+  },
+  {
+    "name": "Dire Hit 2",
+    "category": "Battle items",
+    "effect": "Raises a Pokémon's critical-hit ratio in battle."
+  },
+  {
+    "name": "Dire Hit 3",
+    "category": "Battle items",
+    "effect": "Greatly raises a Pokémon's critical-hit ratio in battle."
+  },
+  {
+    "name": "Discovery Slate",
+    "category": "",
+    "effect": "A slate overflowing with enigmatic energy. You can feel a strong connection between it and the Discovery Room at Ramanas Park."
+  },
+  {
+    "name": "Distortion Slate",
+    "category": "",
+    "effect": "A slate overflowing with enigmatic energy. You can feel a strong connection between it and the Distortion Room at Ramanas Park."
+  },
+  {
+    "name": "Douse Drive",
+    "category": "Hold items",
+    "effect": "Changes Techno Blast to a Water-type move when held by Genesect."
+  },
+  {
+    "name": "Draco Plate",
+    "category": "Hold items",
+    "effect": "Increases power of Dragon-type moves. Changes Arceus' type to Dragon."
+  },
+  {
+    "name": "Dragon Fang",
+    "category": "Hold items",
+    "effect": "Increases the power of Dragon-type moves."
+  },
+  {
+    "name": "Dragon Gem",
+    "category": "Hold items",
+    "effect": "Increases the power of a Dragon-type move only once."
+  },
+  {
+    "name": "Dragon Memory",
+    "category": "Hold items",
+    "effect": "Changes Silvally and its move Multi-Attack to Dragon type."
+  },
+  {
+    "name": "Dragon Tera Shard",
+    "category": "",
+    "effect": "Changes a Pokémon's Tera Type to ."
+  },
+  {
+    "name": "Dragonium Z",
+    "category": "Hold items",
+    "effect": "Allows the use of Devastating Drake, the Dragon type Z-Move."
+  },
+  {
+    "name": "Dread Plate",
+    "category": "Hold items",
+    "effect": "Increases power of Dark-type moves. Changes Arceus' type to Dark."
+  },
+  {
+    "name": "Dropped Item",
+    "category": "Hold items",
+    "effect": "The Xtransceiver found at the Nimbasa City amusement park. It seems it belongs to a boy."
+  },
+  {
+    "name": "Durin Berry",
+    "category": "Berries",
+    "effect": "A Berry which is very rare in the Unova region. A maniac will buy it for a high price."
+  },
+  {
+    "name": "Dynamax Candy",
+    "category": "Medicine",
+    "effect": "Raises Dynamax Level."
+  },
+  {
+    "name": "Earth Plate",
+    "category": "Hold items",
+    "effect": "Increases power of Ground-type moves. Changes Arceus' type to Ground."
+  },
+  {
+    "name": "Eevee Cup",
+    "category": "",
+    "effect": "A cup for big-time Pokémon fans. Kids will happily drink out of it, making it a boon to parents."
+  },
+  {
+    "name": "Eevium Z",
+    "category": "Hold items",
+    "effect": "Allows Eevee to upgrade Last Resort to a Z-Move, Extreme Evoboost."
+  },
+  {
+    "name": "Egg",
+    "category": "",
+    "effect": "An ingredient with a touch of saltiness. It’s full of nutrients and can be enjoyed with all sorts of seasonings."
+  },
+  {
+    "name": "Eject Button",
+    "category": "Hold items",
+    "effect": "If the holder is hit by an attack, it will switch with another Pokémon in your party."
+  },
+  {
+    "name": "Eject Pack",
+    "category": "Hold items",
+    "effect": "The Pokémon switches out if its stats are lowered."
+  },
+  {
+    "name": "Electric Gem",
+    "category": "Hold items",
+    "effect": "Increases the power of an Electric-type move only once."
+  },
+  {
+    "name": "Electric Memory",
+    "category": "Hold items",
+    "effect": "Changes Silvally and its move Multi-Attack to Electric type."
+  },
+  {
+    "name": "Electric Seed",
+    "category": "Hold items",
+    "effect": "An item to be held by a Pokémon. It boosts Defense on Electric Terrain. It can only be used once."
+  },
+  {
+    "name": "Electric Tera Shard",
+    "category": "",
+    "effect": "Changes a Pokémon's Tera Type to Electric."
+  },
+  {
+    "name": "Electrium Z",
+    "category": "Hold items",
+    "effect": "Allows the use of Gigavolt Havoc, the Electric type Z-Move."
+  },
+  {
+    "name": "Elevator Key",
+    "category": "Hold items",
+    "effect": "A card key that activates the elevator in Lysandre Labs. It is emblazoned with Team Flare's logo."
+  },
+  {
+    "name": "Elixir",
+    "category": "Medicine",
+    "effect": "Restores 10 PP to all moves of a Pokémon."
+  },
+  {
+    "name": "Energy Powder",
+    "category": "Medicine",
+    "effect": "Restores 60 HP but lowers Friendship."
+  },
+  {
+    "name": "Energy Root",
+    "category": "Medicine",
+    "effect": "Restores 120 HP but lowers Friendship."
+  },
+  {
+    "name": "Enigma Berry",
+    "category": "Berries",
+    "effect": "If held by a Pokémon, it restores its HP if it is hit by any supereffective attack."
+  },
+  {
+    "name": "Ether",
+    "category": "Medicine",
+    "effect": "Restores 10 PP to one move of a Pokémon."
+  },
+  {
+    "name": "Everstone",
+    "category": "Hold items",
+    "effect": "An item to be held by a Pokémon. The Pokémon holding this peculiar stone is prevented from evolving."
+  },
+  {
+    "name": "Eviolite",
+    "category": "Hold items",
+    "effect": "A mysterious evolutionary lump. When held, it raises the Defense and Sp. Def of a Pokémon that can still evolve."
+  },
+  {
+    "name": "Exercise Ball",
+    "category": "",
+    "effect": "A big ball designed for exercising. It can work as a seat if you get tired, too."
+  },
+  {
+    "name": "Exp. Candy L",
+    "category": "Medicine",
+    "effect": "Increases the Pokémon's Exp points by 10,000."
+  },
+  {
+    "name": "Exp. Candy M",
+    "category": "Medicine",
+    "effect": "Increases the Pokémon's Exp points by 3,000."
+  },
+  {
+    "name": "Exp. Candy S",
+    "category": "Medicine",
+    "effect": "Increases the Pokémon's Exp points by 800."
+  },
+  {
+    "name": "Exp. Candy XL",
+    "category": "Medicine",
+    "effect": "Increases the Pokémon's Exp. Points by 30,000."
+  },
+  {
+    "name": "Exp. Candy XS",
+    "category": "Medicine",
+    "effect": "Increases the Pokémon's Exp points by 100."
+  },
+  {
+    "name": "Exp. Share",
+    "category": "Hold items",
+    "effect": "An item to be held by a Pokémon. The holder gets a share of a battle's Exp. Points without battling."
+  },
+  {
+    "name": "Expert Belt",
+    "category": "Hold items",
+    "effect": "Increases the power of super-effective moves."
+  },
+  {
+    "name": "Fairium Z",
+    "category": "Hold items",
+    "effect": "Allows the use of Twinkle Tackle, the Fairy type Z-Move."
+  },
+  {
+    "name": "Fairy Memory",
+    "category": "Hold items",
+    "effect": "Changes Silvally and its move Multi-Attack to Fairy type."
+  },
+  {
+    "name": "Fairy Tera Shard",
+    "category": "",
+    "effect": "Changes a Pokémon's Tera Type to Fairy."
+  },
+  {
+    "name": "Fighting Gem",
+    "category": "Hold items",
+    "effect": "Increases the power of a Fighting-type move only once."
+  },
+  {
+    "name": "Fighting Memory",
+    "category": "Hold items",
+    "effect": "Changes Silvally and its move Multi-Attack to Fighting type."
+  },
+  {
+    "name": "Fighting Tera Shard",
+    "category": "",
+    "effect": "Changes a Pokémon's Tera Type to Fighting."
+  },
+  {
+    "name": "Fightinium Z",
+    "category": "Hold items",
+    "effect": "Allows the use of All-Out Pummeling, the Fighting type Z-Move."
+  },
+  {
+    "name": "Figy Berry",
+    "category": "Berries",
+    "effect": "Restores HP if it's low, but may cause confusion."
+  },
+  {
+    "name": "Fine Remedy",
+    "category": "Medicine",
+    "effect": ""
+  },
+  {
+    "name": "Fire Gem",
+    "category": "Hold items",
+    "effect": "Increases the power of a Fire-type move only once."
+  },
+  {
+    "name": "Fire Memory",
+    "category": "Hold items",
+    "effect": "Changes Silvally and its move Multi-Attack to Fire type."
+  },
+  {
+    "name": "Fire Pattern Cup",
+    "category": "",
+    "effect": "A cup that’s as good for using at home as on a picnic. It’s light, sturdy, and stacks well, so it’s a cinch to pack up and carry around."
+  },
+  {
+    "name": "Fire Tera Shard",
+    "category": "",
+    "effect": "Changes a Pokémon's Tera Type to Fire."
+  },
+  {
+    "name": "Firium Z",
+    "category": "Hold items",
+    "effect": "Allows the use of Inferno Overdrive, the Fire type Z-Move."
+  },
+  {
+    "name": "Fist Plate",
+    "category": "Hold items",
+    "effect": "Increases power of Fighting-type moves. Changes Arceus' type to Fighting."
+  },
+  {
+    "name": "Flame Orb",
+    "category": "Hold items",
+    "effect": "An item to be held by a Pokémon. It is a bizarre orb that inflicts a burn on the holder in battle."
+  },
+  {
+    "name": "Flame Plate",
+    "category": "Hold items",
+    "effect": "Increases power of Fire-type moves. Changes Arceus' type to Fire."
+  },
+  {
+    "name": "Float Stone",
+    "category": "Hold items",
+    "effect": "A very light stone. It reduces the weight of a Pokémon when held."
+  },
+  {
+    "name": "Flower Pattern Cup",
+    "category": "",
+    "effect": "A cup for kids to use at picnics. It’s made of light but strong material. It’s stackable, which makes it handy for carrying around."
+  },
+  {
+    "name": "Flower Sweet",
+    "category": "Hold items",
+    "effect": "Evolves Milcery into Flower Flavor Alcremie."
+  },
+  {
+    "name": "Flying Gem",
+    "category": "Hold items",
+    "effect": "Increases the power of a Flying-type move only once."
+  },
+  {
+    "name": "Flying Memory",
+    "category": "Hold items",
+    "effect": "Changes Silvally and its move Multi-Attack to Flying type."
+  },
+  {
+    "name": "Flying Tera Shard",
+    "category": "",
+    "effect": "Changes a Pokémon's Tera Type to Flying."
+  },
+  {
+    "name": "Flyinium Z",
+    "category": "Hold items",
+    "effect": "Allows the use of Supersonic Skystrike, the Flying type Z-Move."
+  },
+  {
+    "name": "Focus Band",
+    "category": "Hold items",
+    "effect": "An item to be held by a Pokémon. The holder may endure a potential KO attack, leaving it with just 1 HP."
+  },
+  {
+    "name": "Focus Sash",
+    "category": "Hold items",
+    "effect": "An item to be held by a Pokémon. If it has full HP, the holder will endure one potential KO attack, leaving 1 HP."
+  },
+  {
+    "name": "Fresh-Start Mochi",
+    "category": "Medicine",
+    "effect": "Resets a Pokémon's EVs."
+  },
+  {
+    "name": "Fresh Water",
+    "category": "Medicine",
+    "effect": "Restores 30 HP."
+  },
+  {
+    "name": "Fried Fillet",
+    "category": "",
+    "effect": "When used in a sandwich, this very salty and bitter ingredient is at its best paired with sour seasonings."
+  },
+  {
+    "name": "Full Heal",
+    "category": "Medicine",
+    "effect": "Cures a Pokémon of any status condition."
+  },
+  {
+    "name": "Full Incense",
+    "category": "Hold items",
+    "effect": "Holder always attacks last. Breeding Snorlax produces Munchlax when held."
+  },
+  {
+    "name": "Full Restore",
+    "category": "Medicine",
+    "effect": "Fully restores HP and cures any status condition of a Pokémon."
+  },
+  {
+    "name": "Galladite",
+    "category": "Hold items",
+    "effect": "Enables Gallade to Mega Evolve during battle."
+  },
+  {
+    "name": "Ganlon Berry",
+    "category": "Berries",
+    "effect": "Raises Defense when HP is low."
+  },
+  {
+    "name": "Garchompite",
+    "category": "Hold items",
+    "effect": "Enables Garchomp to Mega Evolve during battle."
+  },
+  {
+    "name": "Gardevoirite",
+    "category": "Hold items",
+    "effect": "Enables Gardevoir to Mega Evolve during battle."
+  },
+  {
+    "name": "Gengarite",
+    "category": "Hold items",
+    "effect": "Enables Gengar to Mega Evolve during battle."
+  },
+  {
+    "name": "Genius Feather",
+    "category": "Medicine",
+    "effect": "Increases Special Attack EVs by 1."
+  },
+  {
+    "name": "Genius Mochi",
+    "category": "Medicine",
+    "effect": "Increases Special Attack EVs."
+  },
+  {
+    "name": "Genome Slate",
+    "category": "",
+    "effect": "A slate overflowing with enigmatic energy. You can feel a strong connection between it and the Genome Room at Ramanas Park."
+  },
+  {
+    "name": "Gentle Mint",
+    "category": "Battle items",
+    "effect": "Changes the Pokémon's stats to match the Gentle nature."
+  },
+  {
+    "name": "Ghost Gem",
+    "category": "Hold items",
+    "effect": "Increases the power of a Ghost-type move only once."
+  },
+  {
+    "name": "Ghost Memory",
+    "category": "Hold items",
+    "effect": "Changes Silvally and its move Multi-Attack to Ghost type."
+  },
+  {
+    "name": "Ghost Tera Shard",
+    "category": "",
+    "effect": "Changes a Pokémon's Tera Type to Ghost."
+  },
+  {
+    "name": "Ghostium Z",
+    "category": "Hold items",
+    "effect": "Allows the use of Never-Ending Nightmare, the Ghost type Z-Move."
+  },
+  {
+    "name": "Glalitite",
+    "category": "Hold items",
+    "effect": "Enables Glalie to Mega Evolve during battle."
+  },
+  {
+    "name": "Gold Bottle",
+    "category": "",
+    "effect": "A popular option among hikers. It’s made with titanium, so it doesn’t rust even if it’s used to hold drinks with high sodium content."
+  },
+  {
+    "name": "Gold Cup",
+    "category": "",
+    "effect": "A popular option among hikers. It’s made with titanium, so it doesn’t rust even if it’s used to hold drinks with high sodium content."
+  },
+  {
+    "name": "Gold Pick",
+    "category": "",
+    "effect": "A golden pick that oozes class. Using it on a sandwich lends an extravagant air that’ll make you want to eat up, even if you don’t love the fillings."
+  },
+  {
+    "name": "Golden Nanab Berry",
+    "category": "Berries",
+    "effect": "Drastically calms a Pokémon in battle, in Let's Go Pikachu/Eevee."
+  },
+  {
+    "name": "Golden Pinap Berry",
+    "category": "Berries",
+    "effect": "Drastically increases chance of getting items when a Pokémon is caught, in Pokémon Let's Go."
+  },
+  {
+    "name": "Golden Razz Berry",
+    "category": "Berries",
+    "effect": "Makes a Pokémon easier to catch in Pokémon Let's Go."
+  },
+  {
+    "name": "Grass Gem",
+    "category": "Hold items",
+    "effect": "Increases the power of a Grass-type move only once."
+  },
+  {
+    "name": "Grass Memory",
+    "category": "Hold items",
+    "effect": "Changes Silvally and its move Multi-Attack to Grass type."
+  },
+  {
+    "name": "Grass Tera Shard",
+    "category": "",
+    "effect": "Changes a Pokémon's Tera Type to Grass."
+  },
+  {
+    "name": "Grassium Z",
+    "category": "Hold items",
+    "effect": "Allows the use of Bloom Doom, the Grass type Z-Move."
+  },
+  {
+    "name": "Grassy Seed",
+    "category": "Hold items",
+    "effect": "An item to be held by a Pokémon. It boosts Defense on Grassy Terrain. It can only be used once."
+  },
+  {
+    "name": "Green Bell Pepper",
+    "category": "",
+    "effect": "An ingredient with some bitterness. When sliced, it adds a nice accent to a sandwich."
+  },
+  {
+    "name": "Green Dish",
+    "category": "",
+    "effect": "A dish for picnics. Comes in plenty of colors to choose from based on the food or the mood. The green variety is quite popular."
+  },
+  {
+    "name": "Green Poké Ball Pick",
+    "category": "",
+    "effect": "A sandwich pick with a simple green Poké Ball design. Often used by Trainers who picked a Grass-type Pokémon for their first partner."
+  },
+  {
+    "name": "Grepa Berry",
+    "category": "Berries",
+    "effect": "Increases Friendship but lowers Special Defense EVs."
+  },
+  {
+    "name": "Grip Claw",
+    "category": "Hold items",
+    "effect": "A Pokémon held item that extends the duration of multiturn attacks like Bind and Wrap."
+  },
+  {
+    "name": "Griseous Core",
+    "category": "Hold items",
+    "effect": ""
+  },
+  {
+    "name": "Griseous Orb",
+    "category": "Hold items",
+    "effect": "Increases the power of Dragon- and Ghost-type moves when held by Giratina, and changes it to Origin Forme."
+  },
+  {
+    "name": "Grit Dust",
+    "category": "Hold items",
+    "effect": "Raises EVs by 1 in Legends: Arceus, when current EVs are between 0-2."
+  },
+  {
+    "name": "Grit Gravel",
+    "category": "Hold items",
+    "effect": "Raises EVs by 1 in Legends: Arceus, when current EVs are between 3-5."
+  },
+  {
+    "name": "Grit Pebble",
+    "category": "Hold items",
+    "effect": "Raises EVs by 1 in Legends: Arceus, when current EVs are between 6-8."
+  },
+  {
+    "name": "Grit Rock",
+    "category": "Hold items",
+    "effect": "Raises EVs by 1 in Legends: Arceus, when current EVs are between 8-9."
+  },
+  {
+    "name": "Ground Gem",
+    "category": "Hold items",
+    "effect": "Increases the power of a Ground-type move only once."
+  },
+  {
+    "name": "Ground Memory",
+    "category": "Hold items",
+    "effect": "Changes Silvally and its move Multi-Attack to Ground type."
+  },
+  {
+    "name": "Ground Tera Shard",
+    "category": "",
+    "effect": "Changes a Pokémon's Tera Type to Ground."
+  },
+  {
+    "name": "Groundium Z",
+    "category": "Hold items",
+    "effect": "Allows the use of Tectonic Rage, the Ground type Z-Move."
+  },
+  {
+    "name": "Grubby Hanky",
+    "category": "Hold items",
+    "effect": "A handkerchief dropped by a regular at Café Warehouse. It smells faintly like a Pokémon."
+  },
+  {
+    "name": "Guard Spec.",
+    "category": "Battle items",
+    "effect": "Prevents stat reduction for five turns."
+  },
+  {
+    "name": "Gyaradosite",
+    "category": "Hold items",
+    "effect": "Enables Gyarados to Mega Evolve during battle."
+  },
+  {
+    "name": "Haban Berry",
+    "category": "Berries",
+    "effect": "Weakens a supereffective Dragon-type attack against the holding Pokémon."
+  },
+  {
+    "name": "Ham",
+    "category": "",
+    "effect": "A very salty ingredient—and that very saltiness is what makes it such a nice companion to veggies."
+  },
+  {
+    "name": "Hamburger",
+    "category": "",
+    "effect": "This very salty ingredient is the thing to add if you want to make your sandwich truly filling."
+  },
+  {
+    "name": "Hard Stone",
+    "category": "Hold items",
+    "effect": "Increases the power of Rock-type moves."
+  },
+  {
+    "name": "Hasty Mint",
+    "category": "Battle items",
+    "effect": "Changes the Pokémon's stats to match the Hasty nature."
+  },
+  {
+    "name": "Heal Powder",
+    "category": "Medicine",
+    "effect": "Heals all status problems, but lowers Friendship."
+  },
+  {
+    "name": "Health Candy",
+    "category": "Medicine",
+    "effect": "Increases a Pokémon's HP stat by 1."
+  },
+  {
+    "name": "Health Candy L",
+    "category": "Medicine",
+    "effect": "Increases a Pokémon's HP stat."
+  },
+  {
+    "name": "Health Candy XL",
+    "category": "Medicine",
+    "effect": "Increases a Pokémon's HP stat."
+  },
+  {
+    "name": "Health Feather",
+    "category": "Medicine",
+    "effect": "Increases HP EVs by 1."
+  },
+  {
+    "name": "Health Mochi",
+    "category": "Medicine",
+    "effect": "Increases HP EVs."
+  },
+  {
+    "name": "Heat Rock",
+    "category": "Hold items",
+    "effect": "A Pokémon held item that extends the duration of the move Sunny Day used by the holder."
+  },
+  {
+    "name": "Heavy-Duty Boots",
+    "category": "Hold items",
+    "effect": "Protects the holder from traps set on the battlefield."
+  },
+  {
+    "name": "Heracronite",
+    "category": "Hold items",
+    "effect": "Enables Heracross to Mega Evolve during battle."
+  },
+  {
+    "name": "Herbed Sausage",
+    "category": "",
+    "effect": "A very salty and bitter ingredient. The balance between the potent saltiness and the herbs’ bitterness make this sausage a pleasure."
+  },
+  {
+    "name": "Heroic Sword Pick",
+    "category": "",
+    "effect": "A pick made to be the coolest. Once you’ve eaten, you can pretend you’re a hero of legend. Souvenir shops at tourist spots sell these for some reason."
+  },
+  {
+    "name": "Hi-tech Earbuds",
+    "category": "Hold items",
+    "effect": "Strange earbuds that allow you to freely control the volume of various sounds."
+  },
+  {
+    "name": "Hondew Berry",
+    "category": "Berries",
+    "effect": "Increases Friendship but lowers Special Attack EVs."
+  },
+  {
+    "name": "Honor Of Kalos",
+    "category": "Hold items",
+    "effect": "A precious symbol that is awarded only to an individual who has done great things for the Kalos region."
+  },
+  {
+    "name": "Horseradish",
+    "category": "",
+    "effect": "A very spicy condiment. Its distinctive sharp sizzle in your sinuses makes it a good match for rich fillings."
+  },
+  {
+    "name": "Houndoominite",
+    "category": "Hold items",
+    "effect": "Enables Houndoom to Mega Evolve during battle."
+  },
+  {
+    "name": "HP Up",
+    "category": "Medicine",
+    "effect": "Increases HP EVs by 10."
+  },
+  {
+    "name": "Hyper Potion",
+    "category": "Medicine",
+    "effect": "Restores 120 HP."
+  },
+  {
+    "name": "Iapapa Berry",
+    "category": "Berries",
+    "effect": "Restores HP if it's low, but may cause confusion."
+  },
+  {
+    "name": "Ice Gem",
+    "category": "Hold items",
+    "effect": "Increases the power of an Ice-type move only once."
+  },
+  {
+    "name": "Ice Heal",
+    "category": "Medicine",
+    "effect": "Cures a Pokémon of freezing."
+  },
+  {
+    "name": "Ice Memory",
+    "category": "Hold items",
+    "effect": "Changes Silvally and its move Multi-Attack to Ice type."
+  },
+  {
+    "name": "Ice Tera Shard",
+    "category": "",
+    "effect": "Changes a Pokémon's Tera Type to Ice."
+  },
+  {
+    "name": "Icicle Plate",
+    "category": "Hold items",
+    "effect": "Increases power of Ice-type moves. Changes Arceus' type to Ice."
+  },
+  {
+    "name": "Icium Z",
+    "category": "Hold items",
+    "effect": "Allows the use of Subzero Slammer, the Ice type Z-Move."
+  },
+  {
+    "name": "Icy Rock",
+    "category": "Hold items",
+    "effect": "A Pokémon held item that extends the duration of the move Hail used by the holder."
+  },
+  {
+    "name": "Impish Mint",
+    "category": "Battle items",
+    "effect": "Changes the Pokémon's stats to match the Impish nature."
+  },
+  {
+    "name": "Incinium Z",
+    "category": "Hold items",
+    "effect": "Allows Incineroar to upgrade Darkest Lariat to a Z-Move, Malicious Moonsault."
+  },
+  {
+    "name": "Insect Plate",
+    "category": "Hold items",
+    "effect": "Increases power of Bug-type moves. Changes Arceus' type to Bug."
+  },
+  {
+    "name": "Intriguing Stone",
+    "category": "Hold items",
+    "effect": "A rather curious stone that might appear to be valuable to some. It's all in the eye of the beholder."
+  },
+  {
+    "name": "Iron",
+    "category": "Medicine",
+    "effect": "Increases Defense EVs by 10."
+  },
+  {
+    "name": "Iron Ball",
+    "category": "Hold items",
+    "effect": "A Pokémon held item that cuts Speed. It makes Flying-type and levitating holders susceptible to Ground moves."
+  },
+  {
+    "name": "Iron Plate",
+    "category": "Hold items",
+    "effect": "Increases power of Steel-type moves. Changes Arceus' type to Steel."
+  },
+  {
+    "name": "Item Drop",
+    "category": "Battle items",
+    "effect": "When used, it causes an ally Pokémon to drop a held item."
+  },
+  {
+    "name": "Item Urge",
+    "category": "Battle items",
+    "effect": "When used, it causes an ally Pokémon to use its held item."
+  },
+  {
+    "name": "Jaboca Berry",
+    "category": "Berries",
+    "effect": "If held by a Pokémon and a physical attack lands, the attacker also takes damage."
+  },
+  {
+    "name": "Jalapeño",
+    "category": "",
+    "effect": "A very spicy ingredient—so spicy as to leave no room for ambivalence about it. You either like it or you don’t."
+  },
+  {
+    "name": "Jam",
+    "category": "",
+    "effect": "A condiment that’s very sweet and likewise very sour. Take care when adding it to sandwiches, as the sweet side can overwhelm."
+  },
+  {
+    "name": "Johto Slate",
+    "category": "",
+    "effect": "A slate overflowing with enigmatic energy. You can feel a strong connection between it and the Johto Room at Ramanas Park."
+  },
+  {
+    "name": "Jolly Mint",
+    "category": "Battle items",
+    "effect": "Changes the Pokémon's stats to match the Jolly nature."
+  },
+  {
+    "name": "Kangaskhanite",
+    "category": "Hold items",
+    "effect": "Enables Kangaskhan to Mega Evolve during battle."
+  },
+  {
+    "name": "Kanto Slate",
+    "category": "",
+    "effect": "A slate overflowing with enigmatic energy. You can feel a strong connection between it and the Kanto Room at Ramanas Park."
+  },
+  {
+    "name": "Kasib Berry",
+    "category": "Berries",
+    "effect": "Weakens a supereffective Ghost-type attack against the holding Pokémon."
+  },
+  {
+    "name": "Kebia Berry",
+    "category": "Berries",
+    "effect": "Weakens a supereffective Poison-type attack against the holding Pokémon."
+  },
+  {
+    "name": "Kee Berry",
+    "category": "Berries",
+    "effect": "If held by a Pokémon, this Berry will increase the holder's Defense if it's hit with a physical move."
+  },
+  {
+    "name": "Kelpsy Berry",
+    "category": "Berries",
+    "effect": "Increases Friendship but lowers Attack EVs."
+  },
+  {
+    "name": "Ketchup",
+    "category": "",
+    "effect": "A condiment with very salty and tart flavor. While a number of other ingredients go into its signature flavor, the noble tomato is its heart and soul."
+  },
+  {
+    "name": "King's Rock",
+    "category": "Hold items",
+    "effect": "May cause opponent to flinch. Evolves Poliwhirl and Slowpoke when traded holding the item."
+  },
+  {
+    "name": "Kiwi",
+    "category": "",
+    "effect": "A very tart ingredient that has a light touch of sweetness as well. It goes well with rich ingredients."
+  },
+  {
+    "name": "Klawf Stick",
+    "category": "",
+    "effect": "A very sweet and salty ingredient. It’s a nutritious processed food made with a concentrate derived from shed Klawf shells."
+  },
+  {
+    "name": "Kofu's Wallet",
+    "category": "",
+    "effect": "A wallet that was left behind by Kofu, the Gym Leader at the Cascarrafa Gym. You’re to deliver it to him at the market in Porto Marinada."
+  },
+  {
+    "name": "Kommonium Z",
+    "category": "Hold items",
+    "effect": "Allows Kommo-o to upgrade Clanging Scales to a Z-Move, Clangorous Soulblaze."
+  },
+  {
+    "name": "Koraidon's Poké Ball",
+    "category": "",
+    "effect": "A Poké Ball that can hold the mysterious Pokémon known as Koraidon. A boy named Arven gave it to you."
+  },
+  {
+    "name": "Lagging Tail",
+    "category": "Hold items",
+    "effect": "Holder always attacks last."
+  },
+  {
+    "name": "Lansat Berry",
+    "category": "Berries",
+    "effect": "Increases critical-hit ratio when HP is low."
+  },
+  {
+    "name": "Latiasite",
+    "category": "Hold items",
+    "effect": "Enables Latias to Mega Evolve during battle."
+  },
+  {
+    "name": "Latiosite",
+    "category": "Hold items",
+    "effect": "Enables Latios to Mega Evolve during battle."
+  },
+  {
+    "name": "Lava Cookie",
+    "category": "Medicine",
+    "effect": "Heals all major status conditions."
+  },
+  {
+    "name": "Lax Incense",
+    "category": "Hold items",
+    "effect": "Lowers the opponent's accuracy. Breeding Wobbuffet produces Wynaut when held."
+  },
+  {
+    "name": "Lax Mint",
+    "category": "Battle items",
+    "effect": "Changes the Pokémon's stats to match the Lax nature."
+  },
+  {
+    "name": "Leader's Crest",
+    "category": "",
+    "effect": "A shard of what appears to be an old blade of some sort. It is held only by Bisharp that head up a group of Pawniard."
+  },
+  {
+    "name": "Leafy Tablecloth",
+    "category": "",
+    "effect": "A botanically themed tablecloth featuring Grass-type Pokémon. Can you find the Pokémon that doesn’t quite fit in?"
+  },
+  {
+    "name": "Leek",
+    "category": "Hold items",
+    "effect": "Increases critical-hit ratio when held by Farfetch'd."
+  },
+  {
+    "name": "Leftovers",
+    "category": "Hold items",
+    "effect": "An item to be held by a Pokémon. The holder's HP is gradually restored during battle."
+  },
+  {
+    "name": "Legend Plate",
+    "category": "Hold items",
+    "effect": ""
+  },
+  {
+    "name": "Lemonade",
+    "category": "Medicine",
+    "effect": "Restores 70 HP."
+  },
+  {
+    "name": "Leppa Berry",
+    "category": "Berries",
+    "effect": "If held by a Pokémon, it restores a move's PP by 10."
+  },
+  {
+    "name": "Lettuce",
+    "category": "",
+    "effect": "This bitter-tasting ingredient is simple and straightforward—just add it to all kinds of other ingredients for a delightfully crunchy time."
+  },
+  {
+    "name": "Liechi Berry",
+    "category": "Berries",
+    "effect": "Raises Attack when HP is low."
+  },
+  {
+    "name": "Life Orb",
+    "category": "Hold items",
+    "effect": "Increases the power of moves, but loses HP each turn."
+  },
+  {
+    "name": "Light Ball",
+    "category": "Hold items",
+    "effect": "An item to be held by PIKACHU. It is a puzzling orb that raises the Attack and Sp. Atk stat."
+  },
+  {
+    "name": "Light Clay",
+    "category": "Hold items",
+    "effect": "A Pokémon held item that extends the duration of barrier moves like Light Screen and Reflect used by the holder."
+  },
+  {
+    "name": "Lilac Tablecloth",
+    "category": "",
+    "effect": "A light purple tablecloth. It’s smooth and pleasant to the touch, and dishes can be placed on it with hardly a sound."
+  },
+  {
+    "name": "Loaded Dice",
+    "category": "Hold items",
+    "effect": "Makes multi-strike moves more likely to hit more times."
+  },
+  {
+    "name": "Lonely Mint",
+    "category": "Battle items",
+    "effect": "Changes the Pokémon's stats to match the Lonely nature."
+  },
+  {
+    "name": "Looker Ticket",
+    "category": "Hold items",
+    "effect": "A ticket that was handmade by Looker. It's decorated with a liberal amount of glittery paint."
+  },
+  {
+    "name": "Lopunnite",
+    "category": "Hold items",
+    "effect": "Enables Lopunny to Mega Evolve during battle."
+  },
+  {
+    "name": "Love Sweet",
+    "category": "Hold items",
+    "effect": "Evolves Milcery into Heart Flavor Alcremie."
+  },
+  {
+    "name": "Lucarionite",
+    "category": "Hold items",
+    "effect": "Enables Lucario to Mega Evolve during battle."
+  },
+  {
+    "name": "Luck Incense",
+    "category": "Hold items",
+    "effect": "Doubles prize money if held. Breeding Chansey or Blissey produces Happiny when held."
+  },
+  {
+    "name": "Lucky Egg",
+    "category": "Hold items",
+    "effect": "An item to be held by a Pokémon. It is an egg filled with happiness that earns extra Exp. Points in battle."
+  },
+  {
+    "name": "Lucky Punch",
+    "category": "Hold items",
+    "effect": "Increases critical-hit ratio when held by Chansey."
+  },
+  {
+    "name": "Lum Berry",
+    "category": "Berries",
+    "effect": "If held by a Pokémon, it recovers from any status problem."
+  },
+  {
+    "name": "Luminous Moss",
+    "category": "Hold items",
+    "effect": "Raises Special Defense if hit by a Water-type move."
+  },
+  {
+    "name": "Lumiose Galette",
+    "category": "Medicine",
+    "effect": "Heals all major status conditions."
+  },
+  {
+    "name": "Lunalium Z",
+    "category": "Hold items",
+    "effect": "Allows Lunala to upgrade Moongeist Beam to a Z-Move, Menacing Moonraze Maelstrom."
+  },
+  {
+    "name": "Lustrous Globe",
+    "category": "Hold items",
+    "effect": ""
+  },
+  {
+    "name": "Lustrous Orb",
+    "category": "Hold items",
+    "effect": "Increases the power of Dragon- and Water-type moves when held by Palkia."
+  },
+  {
+    "name": "Lycanium Z",
+    "category": "Hold items",
+    "effect": "Allows Lycanroc to upgrade Stone Edge to a Z-Move, Splintered Stormshards."
+  },
+  {
+    "name": "Macho Brace",
+    "category": "Hold items",
+    "effect": "An item to be held by a Pokémon. It is a stiff and heavy brace that promotes strong growth but lowers Speed."
+  },
+  {
+    "name": "Magical Heart Pick",
+    "category": "",
+    "effect": "A pick shaped after a magic wand. Perhaps the real magic is the food maker’s wish for a delicious dish."
+  },
+  {
+    "name": "Magical Star Pick",
+    "category": "",
+    "effect": "A pick shaped after a magic wand. Perhaps the real magic is the food maker’s wish for a delicious dish."
+  },
+  {
+    "name": "Magnet",
+    "category": "Hold items",
+    "effect": "Increases the power of Electric-type moves."
+  },
+  {
+    "name": "Mago Berry",
+    "category": "Berries",
+    "effect": "Restores HP if it's low, but may cause confusion."
+  },
+  {
+    "name": "Magost Berry",
+    "category": "Berries",
+    "effect": "A Berry which is very rare in the Unova region. A maniac will buy it for a high price."
+  },
+  {
+    "name": "Manectite",
+    "category": "Hold items",
+    "effect": "Enables Manectric to Mega Evolve during battle."
+  },
+  {
+    "name": "Maranga Berry",
+    "category": "Berries",
+    "effect": "If held by a Pokémon, this Berry will increase the holder's Sp. Def if it's hit with a special move."
+  },
+  {
+    "name": "Marill Ball",
+    "category": "",
+    "effect": "A Marill-themed ball. It’s soft and springy. Make sure you haven’t mistaken a real Marill for this ball before throwing."
+  },
+  {
+    "name": "Marmalade",
+    "category": "",
+    "effect": "A condiment with sour and bitter notes. It’s surprisingly useful, as it makes a nice counterpoint to oilier foods."
+  },
+  {
+    "name": "Marshadium Z",
+    "category": "Hold items",
+    "effect": "Allows Marshadow to upgrade Spectral Thief to a Z-Move, Soul-Stealing 7-Star Strike."
+  },
+  {
+    "name": "Mawilite",
+    "category": "Hold items",
+    "effect": "Enables Mawile to Mega Evolve during battle."
+  },
+  {
+    "name": "Max Elixir",
+    "category": "Medicine",
+    "effect": "Fully restores PP to all moves of a Pokémon."
+  },
+  {
+    "name": "Max Ether",
+    "category": "Medicine",
+    "effect": "Fully restores PP to one move of a Pokémon."
+  },
+  {
+    "name": "Max Potion",
+    "category": "Medicine",
+    "effect": "Fully restores HP."
+  },
+  {
+    "name": "Max Revive",
+    "category": "Medicine",
+    "effect": "Revives a fainted Pokémon, fully restoring its HP."
+  },
+  {
+    "name": "Mayonnaise",
+    "category": "",
+    "effect": "A condiment that packs a very tart punch yet pairs well with various ingredients."
+  },
+  {
+    "name": "Meadow Plate",
+    "category": "Hold items",
+    "effect": "Increases power of Grass-type moves. Changes Arceus' type to Grass."
+  },
+  {
+    "name": "Medichamite",
+    "category": "Hold items",
+    "effect": "Enables Medicham to Mega Evolve during battle."
+  },
+  {
+    "name": "Mental Herb",
+    "category": "Hold items",
+    "effect": "An item to be held by a Pokémon. It snaps the holder out of infatuation. It can be used only once."
+  },
+  {
+    "name": "Metagrossite",
+    "category": "Hold items",
+    "effect": "Enables Metagross to Mega Evolve during battle."
+  },
+  {
+    "name": "Metal Coat",
+    "category": "Hold items",
+    "effect": "Increases the power of Steel-type moves. Evolves Onix and Scyther when traded holding the item."
+  },
+  {
+    "name": "Metal Powder",
+    "category": "Hold items",
+    "effect": "Increases Defense when held by Ditto."
+  },
+  {
+    "name": "Metronome",
+    "category": "Hold items",
+    "effect": "Increases the power of moves used consecutively."
+  },
+  {
+    "name": "Mewnium Z",
+    "category": "Hold items",
+    "effect": "Allows Mew to upgrade Psychic to a Z-Move, Genesis Supernova."
+  },
+  {
+    "name": "Mewtwonite X",
+    "category": "Hold items",
+    "effect": "Enables Mewtwo to Mega Evolve during battle."
+  },
+  {
+    "name": "Mewtwonite Y",
+    "category": "Hold items",
+    "effect": "Enables Mewtwo to Mega Evolve during battle."
+  },
+  {
+    "name": "Micle Berry",
+    "category": "Berries",
+    "effect": "Increases a move's accuracy when HP is low."
+  },
+  {
+    "name": "Mighty Candy",
+    "category": "Medicine",
+    "effect": "Increases a Pokémon's Attack stat by 1."
+  },
+  {
+    "name": "Mighty Candy L",
+    "category": "Medicine",
+    "effect": "Increases a Pokémon's Attack stat."
+  },
+  {
+    "name": "Mighty Candy XL",
+    "category": "Medicine",
+    "effect": "Increases a Pokémon's Attack stat."
+  },
+  {
+    "name": "Mild Mint",
+    "category": "Battle items",
+    "effect": "Changes the Pokémon's stats to match the Mild nature."
+  },
+  {
+    "name": "Mimikium Z",
+    "category": "Hold items",
+    "effect": "Allows Mimikyu to upgrade Play Rough to a Z-Move, Let's Snuggle Forever."
+  },
+  {
+    "name": "Mind Plate",
+    "category": "Hold items",
+    "effect": "Increases power of Psychic-type moves. Changes Arceus' type to Psychic."
+  },
+  {
+    "name": "Mint Tablecloth",
+    "category": "",
+    "effect": "A light mint-colored tablecloth. It’s smooth and pleasant to the touch, and dishes can be placed on it with hardly a sound."
+  },
+  {
+    "name": "Miracle Seed",
+    "category": "Hold items",
+    "effect": "Increases the power of Grass-type moves."
+  },
+  {
+    "name": "Miraidon's Poké Ball",
+    "category": "",
+    "effect": "A Poké Ball that can hold the mysterious Pokémon known as Miraidon. A boy named Arven gave it to you."
+  },
+  {
+    "name": "Mirror Herb",
+    "category": "Hold items",
+    "effect": "Copies an opponent's stat increases when consumed."
+  },
+  {
+    "name": "Misty Seed",
+    "category": "Hold items",
+    "effect": "An item to be held by a Pokémon. It boosts Sp. Def on Misty Terrain. It can only be used once."
+  },
+  {
+    "name": "Modest Mint",
+    "category": "Battle items",
+    "effect": "Changes the Pokémon's stats to match the Modest nature."
+  },
+  {
+    "name": "Monstrous Tablecloth",
+    "category": "",
+    "effect": "A tablecloth designed by the Pewter Museum of Science. The academic air of the pattern is a big hit with kids and adults alike."
+  },
+  {
+    "name": "Moomoo Milk",
+    "category": "Medicine",
+    "effect": "Restores 100 HP."
+  },
+  {
+    "name": "Muscle Band",
+    "category": "Hold items",
+    "effect": "Increases the power of Physical-category moves."
+  },
+  {
+    "name": "Muscle Feather",
+    "category": "Medicine",
+    "effect": "Increases Attack EVs by 1."
+  },
+  {
+    "name": "Muscle Mochi",
+    "category": "Medicine",
+    "effect": "Increases Attack EVs."
+  },
+  {
+    "name": "Mustard",
+    "category": "",
+    "effect": "A very spicy condiment that’s indispensable when bread is on the table. It pairs tremendously with ketchup."
+  },
+  {
+    "name": "Mysterious Shard L",
+    "category": "",
+    "effect": "A large shard that emanates an enigmatic power. Inside the shard, you can see a pattern that looks like Ramanas roses."
+  },
+  {
+    "name": "Mysterious Shard S",
+    "category": "",
+    "effect": "A small shard that emanates an enigmatic power. Inside the shard, you can see a pattern that looks like Ramanas roses."
+  },
+  {
+    "name": "Mystic Water",
+    "category": "Hold items",
+    "effect": "Increases the power of Water-type moves."
+  },
+  {
+    "name": "Naive Mint",
+    "category": "Battle items",
+    "effect": "Changes the Pokémon's stats to match the Naive nature."
+  },
+  {
+    "name": "Nanab Berry",
+    "category": "Berries",
+    "effect": "A Berry to be used in cooking. Calms a Pokémon in battle, in Let's Go Pikachu/Eevee."
+  },
+  {
+    "name": "Naughty Mint",
+    "category": "Battle items",
+    "effect": "Changes the Pokémon's stats to match the Naughty nature."
+  },
+  {
+    "name": "Never-Melt Ice",
+    "category": "Hold items",
+    "effect": "Increases the power of Ice-type moves."
+  },
+  {
+    "name": "Nomel Berry",
+    "category": "Berries",
+    "effect": "A Berry which is very rare in the Unova region. A maniac will buy it for a high price."
+  },
+  {
+    "name": "Noodles",
+    "category": "",
+    "effect": "A nice salty ingredient. It’s unclear how well these boiled noodles will serve as a sandwich filling."
+  },
+  {
+    "name": "Normal Gem",
+    "category": "Hold items",
+    "effect": "Increases the power of a Normal-type move only once."
+  },
+  {
+    "name": "Normal Tera Shard",
+    "category": "",
+    "effect": "Changes a Pokémon's Tera Type to Normal."
+  },
+  {
+    "name": "Normalium Z",
+    "category": "Hold items",
+    "effect": "Allows the use of Breakneck Blitz, the Normal type Z-Move."
+  },
+  {
+    "name": "Occa Berry",
+    "category": "Berries",
+    "effect": "Weakens a supereffective Fire-type attack against the holding Pokémon."
+  },
+  {
+    "name": "Oceanic Slate",
+    "category": "",
+    "effect": "A slate overflowing with enigmatic energy. You can feel a strong connection between it and the Oceanic Room at Ramanas Park."
+  },
+  {
+    "name": "Odd Incense",
+    "category": "Hold items",
+    "effect": "Increases the power of Psychic-type moves. Breeding Mr. Mime produces Mime Jr. when held."
+  },
+  {
+    "name": "Old Gateau",
+    "category": "Medicine",
+    "effect": "Heals all major status conditions."
+  },
+  {
+    "name": "Olive Oil",
+    "category": "",
+    "effect": "A condiment offering faint notes of sour and bitter flavors. The most prized varieties are the ones Smoliv love the smell of—such oils’ quality is assured."
+  },
+  {
+    "name": "Onion",
+    "category": "",
+    "effect": "This spicy veggie is indispensable to many sandwiches. It goes well with rich ingredients."
+  },
+  {
+    "name": "Oran Berry",
+    "category": "Berries",
+    "effect": "If held by a Pokémon, it heals the user by just 10 HP."
+  },
+  {
+    "name": "Orange Dish",
+    "category": "",
+    "effect": "A dish for picnics. Comes in plenty of colors to choose from based on the food or the mood. The orange variety is the most popular of all."
+  },
+  {
+    "name": "Pamtre Berry",
+    "category": "Berries",
+    "effect": "A Berry which is very rare in the Unova region. A maniac will buy it for a high price."
+  },
+  {
+    "name": "Paralyze Heal",
+    "category": "Medicine",
+    "effect": "Cures a Pokémon of paralysis."
+  },
+  {
+    "name": "Parasol Pick",
+    "category": "",
+    "effect": "Some complain that the parasol part of this pick is hard to hold on to, so your fingers get messy. Still, it’s fun to twirl this all around after you’ve eaten."
+  },
+  {
+    "name": "Party Sparkler Pick",
+    "category": "",
+    "effect": "This pick features a small sparkler that goes off automatically. It’s used at parties or for guests of honor. It leaves an oddly appealing aroma once it’s burned out."
+  },
+  {
+    "name": "Pass Orb",
+    "category": "Hold items",
+    "effect": "A mysterious orb containing the power of the Unova region, to be used when generating Pass Power."
+  },
+  {
+    "name": "Passho Berry",
+    "category": "Berries",
+    "effect": "Weakens a supereffective Water-type attack against the holding Pokémon."
+  },
+  {
+    "name": "Payapa Berry",
+    "category": "Berries",
+    "effect": "Weakens a supereffective Psychic-type attack against the holding Pokémon."
+  },
+  {
+    "name": "Peach Tablecloth",
+    "category": "",
+    "effect": "A light peach-colored tablecloth. It’s smooth and pleasant to the touch, and dishes can be placed on it with hardly a sound."
+  },
+  {
+    "name": "Peanut Butter",
+    "category": "",
+    "effect": "A very sweet condiment. People in Paldea seem to favor the sweet varieties over the unsweetened."
+  },
+  {
+    "name": "Pecha Berry",
+    "category": "Berries",
+    "effect": "If held by a Pokémon, it recovers from poison."
+  },
+  {
+    "name": "Pepper",
+    "category": "",
+    "effect": "A seasoning packing very spicy flavor. It goes nicely with oilier foods and works especially well when you add just a pinch for a hint of flavor."
+  },
+  {
+    "name": "Persim Berry",
+    "category": "Berries",
+    "effect": "If held by a Pokémon, it recovers from confusion."
+  },
+  {
+    "name": "Petaya Berry",
+    "category": "Berries",
+    "effect": "Raises Special Attack when HP is low."
+  },
+  {
+    "name": "Pewter Crunchies",
+    "category": "Medicine",
+    "effect": "Heals all major status conditions."
+  },
+  {
+    "name": "Pickle",
+    "category": "",
+    "effect": "This very sour ingredient is made by pickling veggies in a flavorful brine made from spices and vinegar."
+  },
+  {
+    "name": "Picnic Set",
+    "category": "",
+    "effect": "A roomy basket packed with all sorts of things for use when enjoying picnicking with your Pokémon."
+  },
+  {
+    "name": "Pidgeotite",
+    "category": "Hold items",
+    "effect": "Enables Pidgeot to Mega Evolve during battle."
+  },
+  {
+    "name": "Pika-Pika Pick",
+    "category": "",
+    "effect": "A Pick-achu, as it were, sporting Pikachu’s usual expression. It’s easy to grab by the ears, which is part of why it’s so popular."
+  },
+  {
+    "name": "Pikachu Cup",
+    "category": "",
+    "effect": "A cup for big-time Pokémon fans. Kids will happily drink out of it, making it a boon to parents."
+  },
+  {
+    "name": "Pikanium Z",
+    "category": "Hold items",
+    "effect": "Allows Pikachu to upgrade Volt Tackle to a Z-Move, Catastropika."
+  },
+  {
+    "name": "Pikashunium Z",
+    "category": "Hold items",
+    "effect": "Allows Pikachu in a cap to upgrade Thunderbolt to a Z-Move, 10,000,000 Volt Thunderbolt."
+  },
+  {
+    "name": "Pinap Berry",
+    "category": "Berries",
+    "effect": "A Berry to be used in cooking. Increases chances of getting items when a Pokémon is caught, in Pokémon Let's Go."
+  },
+  {
+    "name": "Pineapple",
+    "category": "",
+    "effect": "This very tart ingredient is a fruit of southern lands, and its color and texture are a thrill. It’s been cut into chunks to be easily manageable."
+  },
+  {
+    "name": "Pink Bottle",
+    "category": "",
+    "effect": "A go-to bottle widely used for drinks at picnics. Its simple design and portability make it popular among all sorts of people."
+  },
+  {
+    "name": "Pink Cup",
+    "category": "",
+    "effect": "A cup sold with the Pink Bottle. The two don’t stack, so they’re tough to pack—but they look good, so they’re popular with those who like to post picnic photos."
+  },
+  {
+    "name": "Pink Nectar",
+    "category": "Hold items",
+    "effect": "The flower nectar obtained at the flowering shrubs on Royal Avenue. It changes the form of certain species of Pokémon."
+  },
+  {
+    "name": "Pink Tablecloth",
+    "category": "",
+    "effect": "A simple pink tablecloth. It’s smooth and pleasant to the touch, and dishes can be placed on it with hardly a sound."
+  },
+  {
+    "name": "Pinsirite",
+    "category": "Hold items",
+    "effect": "Enables Pinsir to Mega Evolve during battle."
+  },
+  {
+    "name": "Pixie Plate",
+    "category": "Hold items",
+    "effect": "Increases power of Fairy-type moves. Changes Arceus' type to Fairy."
+  },
+  {
+    "name": "Plaid Tablecloth (B)",
+    "category": "",
+    "effect": "A sturdy tablecloth made of thick fabric. The gentle blue plaid gives a table a crisp look."
+  },
+  {
+    "name": "Plaid Tablecloth (R)",
+    "category": "",
+    "effect": "A sturdy tablecloth made of thick fabric. The quietly composed red plaid gives the table some flair."
+  },
+  {
+    "name": "Plaid Tablecloth (Y)",
+    "category": "",
+    "effect": "A sturdy tablecloth made of thick fabric. The cheery yellow plaid brightens up a table."
+  },
+  {
+    "name": "Plasma Card",
+    "category": "Hold items",
+    "effect": "A card key needed to enter the password inside the Plasma Frigate."
+  },
+  {
+    "name": "Poison Barb",
+    "category": "Hold items",
+    "effect": "Increases the power of Poison-type moves."
+  },
+  {
+    "name": "Poison Gem",
+    "category": "Hold items",
+    "effect": "Increases the power of a Poison-type move only once."
+  },
+  {
+    "name": "Poison Memory",
+    "category": "Hold items",
+    "effect": "Changes Silvally and its move Multi-Attack to Poison type."
+  },
+  {
+    "name": "Poison Tera Shard",
+    "category": "",
+    "effect": "Changes a Pokémon's Tera Type to Poison."
+  },
+  {
+    "name": "Poisonium Z",
+    "category": "Hold items",
+    "effect": "Allows the use of Acid Downpour, the Poison type Z-Move."
+  },
+  {
+    "name": "Polka-Dot Bottle",
+    "category": "",
+    "effect": "A polka-dot-patterned bottle that’s small, light, and even comes with a cup. The detachable strap makes it handy for walking around with."
+  },
+  {
+    "name": "Polka-Dot Cup",
+    "category": "",
+    "effect": "A cup for kids to use at picnics. It’s made of light but strong material. It’s stackable, which makes it handy for carrying around."
+  },
+  {
+    "name": "Polka-Dot Tablecloth",
+    "category": "",
+    "effect": "A tablecloth with a fashionable polka-dot pattern. It’s great at repelling water and mold, and stains and smudges wipe right off."
+  },
+  {
+    "name": "Pomeg Berry",
+    "category": "Berries",
+    "effect": "Increases Friendship but lowers HP EVs."
+  },
+  {
+    "name": "Potato Salad",
+    "category": "",
+    "effect": "This very tart ingredient—a soft salad that’s all about potatoes—pairs tremendously well with bread."
+  },
+  {
+    "name": "Potato Tortilla",
+    "category": "",
+    "effect": "A very salty ingredient and a popular dish in Paldea. It’s undeniably filling."
+  },
+  {
+    "name": "Potion",
+    "category": "Medicine",
+    "effect": "Restores 20 HP."
+  },
+  {
+    "name": "Power Anklet",
+    "category": "Hold items",
+    "effect": "A Pokémon held item that promotes Speed gain on leveling, but reduces the Speed stat."
+  },
+  {
+    "name": "Power Band",
+    "category": "Hold items",
+    "effect": "A Pokémon held item that promotes Sp. Def gain on leveling, but reduces the Speed stat."
+  },
+  {
+    "name": "Power Belt",
+    "category": "Hold items",
+    "effect": "A Pokémon held item that promotes Defense gain on leveling, but reduces the Speed stat."
+  },
+  {
+    "name": "Power Bracer",
+    "category": "Hold items",
+    "effect": "A Pokémon held item that promotes Attack gain on leveling, but reduces the Speed stat."
+  },
+  {
+    "name": "Power Herb",
+    "category": "Hold items",
+    "effect": "A single-use item to be held by a Pokémon. It allows the immediate use of a move that charges on the first turn."
+  },
+  {
+    "name": "Power Lens",
+    "category": "Hold items",
+    "effect": "A Pokémon held item that promotes Sp. Atk gain on leveling, but reduces the Speed stat."
+  },
+  {
+    "name": "Power Plant Pass",
+    "category": "Hold items",
+    "effect": "This pass serves as an ID card for gaining access to the power plant that lies along Route 13."
+  },
+  {
+    "name": "Power Weight",
+    "category": "Hold items",
+    "effect": "A Pokémon held item that promotes HP gain on leveling, but reduces the Speed stat."
+  },
+  {
+    "name": "PP Max",
+    "category": "Medicine",
+    "effect": "Raises the maximum PP of a move to its maximum."
+  },
+  {
+    "name": "PP Up",
+    "category": "Medicine",
+    "effect": "Raises the maximum PP of a move."
+  },
+  {
+    "name": "Primarium Z",
+    "category": "Hold items",
+    "effect": "Allows Primarina to upgrade Sparkling Aria to a Z-Move, Oceanic Operetta."
+  },
+  {
+    "name": "Prison Bottle",
+    "category": "Hold items",
+    "effect": "Transforms Hoopa Confined to Hoopa Unbound."
+  },
+  {
+    "name": "Prof's Letter",
+    "category": "Hold items",
+    "effect": "A letter that Professor Sycamore wrote to your mother. A faint but pleasant perfume seems to cling to the paper."
+  },
+  {
+    "name": "Prosciutto",
+    "category": "",
+    "effect": "This ingredient is very salty like regular ham, but the difference is prosciutto is not cooked after it is cured, giving it a fun freshness."
+  },
+  {
+    "name": "Protective Pads",
+    "category": "Hold items",
+    "effect": "An item to be held by a Pokémon. These pads protect the holder from effects caused by making direct contact with the target."
+  },
+  {
+    "name": "Protein",
+    "category": "Medicine",
+    "effect": "Increases Attack EVs by 10."
+  },
+  {
+    "name": "Psychic Gem",
+    "category": "Hold items",
+    "effect": "Increases the power of a Psychic-type move only once."
+  },
+  {
+    "name": "Psychic Memory",
+    "category": "Hold items",
+    "effect": "Changes Silvally and its move Multi-Attack to Psychic type."
+  },
+  {
+    "name": "Psychic Seed",
+    "category": "Hold items",
+    "effect": "An item to be held by a Pokémon. It boosts Sp. Def on Psychic Terrain. It can only be used once."
+  },
+  {
+    "name": "Psychic Tera Shard",
+    "category": "",
+    "effect": "Changes a Pokémon's Tera Type to Psychic."
+  },
+  {
+    "name": "Psychium Z",
+    "category": "Hold items",
+    "effect": "Allows the use of Shattered Psyche, the Psychic type Z-Move."
+  },
+  {
+    "name": "Punching Glove",
+    "category": "",
+    "effect": "An item to be held by a Pokémon. This protective glove boosts the power of the holder’s punching moves and prevents direct contact with targets."
+  },
+  {
+    "name": "Pure Incense",
+    "category": "Hold items",
+    "effect": "Descreases the likelihood of meeting wild Pokémon. Breeding Chimecho produces Chingling when held."
+  },
+  {
+    "name": "Purple Nectar",
+    "category": "Hold items",
+    "effect": "A flower nectar obtained at Poni Meadow. It changes the form of certain species of Pokémon."
+  },
+  {
+    "name": "Qualot Berry",
+    "category": "Berries",
+    "effect": "Increases Friendship but lowers Defense EVs."
+  },
+  {
+    "name": "Quick Candy",
+    "category": "Medicine",
+    "effect": "Increases a Pokémon's Speed stat by 1."
+  },
+  {
+    "name": "Quick Candy L",
+    "category": "Medicine",
+    "effect": "Increases a Pokémon's Speed stat."
+  },
+  {
+    "name": "Quick Candy XL",
+    "category": "Medicine",
+    "effect": "Increases a Pokémon's Speed stat."
+  },
+  {
+    "name": "Quick Claw",
+    "category": "Hold items",
+    "effect": "An item to be held by a Pokémon. A light, sharp claw that lets the bearer move first occasionally."
+  },
+  {
+    "name": "Quick Powder",
+    "category": "Hold items",
+    "effect": "Increases Speed when held by Ditto."
+  },
+  {
+    "name": "Quiet Mint",
+    "category": "Battle items",
+    "effect": "Changes the Pokémon's stats to match the Quiet nature."
+  },
+  {
+    "name": "Rabuta Berry",
+    "category": "Berries",
+    "effect": "A Berry which is very rare in the Unova region. A maniac will buy it for a high price."
+  },
+  {
+    "name": "Rage Candy Bar",
+    "category": "Medicine",
+    "effect": "Heals all major status conditions."
+  },
+  {
+    "name": "Rainbow Slate",
+    "category": "",
+    "effect": "A slate overflowing with enigmatic energy. You can feel a strong connection between it and the Rainbow Room at Ramanas Park."
+  },
+  {
+    "name": "Rare Candy",
+    "category": "Medicine",
+    "effect": "Raises a Pokémon's level by 1."
+  },
+  {
+    "name": "Rash Mint",
+    "category": "Battle items",
+    "effect": "Changes the Pokémon's stats to match the Rash nature."
+  },
+  {
+    "name": "Rawst Berry",
+    "category": "Berries",
+    "effect": "If held by a Pokémon, it recovers from a burn."
+  },
+  {
+    "name": "Razor Claw",
+    "category": "Hold items",
+    "effect": "Increases critical-hit ratio. Evolves Sneasel when held at night."
+  },
+  {
+    "name": "Razor Fang",
+    "category": "Hold items",
+    "effect": "May cause opponent to flinch. Evolves Gligar when held at night."
+  },
+  {
+    "name": "Razz Berry",
+    "category": "Berries",
+    "effect": "A Berry which is very rare in the Unova region. A maniac will buy it for a high price."
+  },
+  {
+    "name": "Red Bell Pepper",
+    "category": "",
+    "effect": "An ingredient with some bitterness—but its bitter notes and overall flavor are pleasantly mild compared to its green cousin."
+  },
+  {
+    "name": "Red Card",
+    "category": "Hold items",
+    "effect": "A card with a mysterious power. When the holder is struck by a foe, the attacker is removed from battle."
+  },
+  {
+    "name": "Red Dish",
+    "category": "",
+    "effect": "A dish for picnics. Comes in plenty of colors to choose from based on the food or the mood. The red variety never fails to sell well."
+  },
+  {
+    "name": "Red-Flag Pick",
+    "category": "",
+    "effect": "This pick flies a red flag that lends an air of adventure. The flag itself is made of card stock, so it’ll fly proudly even with no wind."
+  },
+  {
+    "name": "Red Nectar",
+    "category": "Hold items",
+    "effect": "A flower nectar obtained at Ula'ula Meadow. It changes the form of certain species of Pokémon."
+  },
+  {
+    "name": "Red Onion",
+    "category": "",
+    "effect": "An ingredient with some sweetness to it. Its spiciness and fragrance are milder than those of other onions, making it a pleasant bite."
+  },
+  {
+    "name": "Red Poké Ball Pick",
+    "category": "",
+    "effect": "A sandwich pick with a simple red Poké Ball design. Often used by Trainers who picked a Fire-type Pokémon for their first partner."
+  },
+  {
+    "name": "Relaxed Mint",
+    "category": "Battle items",
+    "effect": "Changes the Pokémon's stats to match the Relaxed nature."
+  },
+  {
+    "name": "Remedy",
+    "category": "Medicine",
+    "effect": ""
+  },
+  {
+    "name": "Reset Urge",
+    "category": "Battle items",
+    "effect": "When used, it restores any stat changes of an ally Pokémon."
+  },
+  {
+    "name": "Resist Feather",
+    "category": "Medicine",
+    "effect": "Increases Defense EVs by 1."
+  },
+  {
+    "name": "Resist Mochi",
+    "category": "Medicine",
+    "effect": "Increases Defense EVs."
+  },
+  {
+    "name": "Revival Herb",
+    "category": "Medicine",
+    "effect": "Revives a Pokémon to max HP, but lowers Friendship."
+  },
+  {
+    "name": "Revive",
+    "category": "Medicine",
+    "effect": "Revives a fainted Pokémon, restoring half its HP."
+  },
+  {
+    "name": "Ribbon Sweet",
+    "category": "Hold items",
+    "effect": "Evolves Milcery into Ribbon Flavor Alcremie."
+  },
+  {
+    "name": "Rice",
+    "category": "",
+    "effect": "An ingredient with a touch of sweetness. It’s unclear how well this cooked rice will serve as a sandwich filling."
+  },
+  {
+    "name": "Rindo Berry",
+    "category": "Berries",
+    "effect": "Weakens a supereffective Grass-type attack against the holding Pokémon."
+  },
+  {
+    "name": "Ring Target",
+    "category": "Hold items",
+    "effect": "Moves that would otherwise have no effect will land on the Pokémon that holds it."
+  },
+  {
+    "name": "Rock Gem",
+    "category": "Hold items",
+    "effect": "Increases the power of a Rock-type move only once."
+  },
+  {
+    "name": "Rock Incense",
+    "category": "Hold items",
+    "effect": "Increases the power of Rock-type moves. Breeding Sudowoodo produces Bonsly when held."
+  },
+  {
+    "name": "Rock Memory",
+    "category": "Hold items",
+    "effect": "Changes Silvally and its move Multi-Attack to Rock type."
+  },
+  {
+    "name": "Rock Tera Shard",
+    "category": "",
+    "effect": "Changes a Pokémon's Tera Type to Rock."
+  },
+  {
+    "name": "Rockium Z",
+    "category": "Hold items",
+    "effect": "Allows the use of Continental Crush, the Rock type Z-Move."
+  },
+  {
+    "name": "Rocky Helmet",
+    "category": "Hold items",
+    "effect": "If the holder of this item takes damage, the attacker will also be damaged upon contact."
+  },
+  {
+    "name": "Room Service",
+    "category": "Hold items",
+    "effect": "Lowers the Pokémon's speed during Trick Room."
+  },
+  {
+    "name": "Rose Incense",
+    "category": "Hold items",
+    "effect": "Increases the power of Grass-type moves. Breeding Roselia or Roserade produces Budew when held."
+  },
+  {
+    "name": "Roseli Berry",
+    "category": "Berries",
+    "effect": "If held by a Pokémon, this Berry will lessen the damage taken from one supereffective Fairy-type attack."
+  },
+  {
+    "name": "Roto Bargain",
+    "category": "Battle items",
+    "effect": "Reduces the prices of products at Poké Marts by half."
+  },
+  {
+    "name": "Roto Boost",
+    "category": "Battle items",
+    "effect": "Raises all stats of your battling Pokémon."
+  },
+  {
+    "name": "Roto Catch",
+    "category": "Battle items",
+    "effect": "Increases the chance to catch Pokémon a lot."
+  },
+  {
+    "name": "Roto Encounter",
+    "category": "Battle items",
+    "effect": "Increases the chance of encountering high-level wild Pokémon a lot for a certain period of time."
+  },
+  {
+    "name": "Roto Exp. Points",
+    "category": "Battle items",
+    "effect": "Increases the Exp. Points your Pokémon receive after battle a little."
+  },
+  {
+    "name": "Roto Friendship",
+    "category": "Battle items",
+    "effect": "Helps Pokémon in your party grow friendly faster."
+  },
+  {
+    "name": "Roto Hatch",
+    "category": "Battle items",
+    "effect": "Helps Eggs hatch faster."
+  },
+  {
+    "name": "Roto HP Restore",
+    "category": "Battle items",
+    "effect": "Fully restores the HP of your battling Pokémon."
+  },
+  {
+    "name": "Roto PP Restore",
+    "category": "Battle items",
+    "effect": "Fully restores the PP of your battling Pokémon."
+  },
+  {
+    "name": "Roto Prize Money",
+    "category": "Battle items",
+    "effect": "Triples the prize money you receive after battle."
+  },
+  {
+    "name": "Roto Stealth",
+    "category": "Battle items",
+    "effect": "Prevents you from encountering wild Pokémon for a certain period of time."
+  },
+  {
+    "name": "Rotom Phone",
+    "category": "",
+    "effect": "The latest model of smartphone. A Pokémon called Rotom lives within it, and it can be used to run all sorts of handy apps."
+  },
+  {
+    "name": "Rowap Berry",
+    "category": "Berries",
+    "effect": "If held by a Pokémon and a special attack lands, the attacker also takes damage."
+  },
+  {
+    "name": "Sablenite",
+    "category": "Hold items",
+    "effect": "Enables Sableye to Mega Evolve during battle."
+  },
+  {
+    "name": "Sacred Ash",
+    "category": "Medicine",
+    "effect": "Revives all fainted Pokémon and fully restores their HP."
+  },
+  {
+    "name": "Safety Goggles",
+    "category": "Hold items",
+    "effect": "Prevents damage from weather and powder."
+  },
+  {
+    "name": "Salac Berry",
+    "category": "Berries",
+    "effect": "Raises Speed when HP is low."
+  },
+  {
+    "name": "Salamencite",
+    "category": "Hold items",
+    "effect": "Enables Salamence to Mega Evolve during battle."
+  },
+  {
+    "name": "Salt",
+    "category": "",
+    "effect": "A very salty seasoning, unsurprisingly. People quite like the grains of salt that can be gathered from the footprints of particularly jagged Naclstack."
+  },
+  {
+    "name": "Salty Herba Mystica",
+    "category": "",
+    "effect": "One of the condiments spoken of as legends. Its mellow saltiness is said to be tremendously effective when it comes to promoting health."
+  },
+  {
+    "name": "Sandwich",
+    "category": "",
+    "effect": "A dish made by sandwiching vegetables, meat, or other ingredients between two pieces of bread. It makes a fantastic meal when out on a picnic."
+  },
+  {
+    "name": "Sassy Mint",
+    "category": "Battle items",
+    "effect": "Changes the Pokémon's stats to match the Sassy nature."
+  },
+  {
+    "name": "Scarlet Book",
+    "category": "",
+    "effect": "A record of the expedition that the author, Heath, went on within the Great Crater of Paldea. The book has the name “Sada” written on it in clumsy handwriting."
+  },
+  {
+    "name": "Sceptilite",
+    "category": "Hold items",
+    "effect": "Enables Sceptile to Mega Evolve during battle."
+  },
+  {
+    "name": "Scizorite",
+    "category": "Hold items",
+    "effect": "Enables Scizor to Mega Evolve during battle."
+  },
+  {
+    "name": "Scope Lens",
+    "category": "Hold items",
+    "effect": "Increases critical-hit ratio."
+  },
+  {
+    "name": "Scroll of Darkness",
+    "category": "",
+    "effect": "A peculiar scroll that can make a certain species of Pokémon evolve. Written upon it are the true secrets of the path of darkness."
+  },
+  {
+    "name": "Scroll of Waters",
+    "category": "",
+    "effect": "A peculiar scroll that can make a certain species of Pokémon evolve. Written upon it are the true secrets of the path of water."
+  },
+  {
+    "name": "Sea Incense",
+    "category": "Hold items",
+    "effect": "Increases the power of Water-type moves. Breeding Marill or Azumarill produces Azurill when held."
+  },
+  {
+    "name": "Serious Mint",
+    "category": "Battle items",
+    "effect": "Changes the Pokémon's stats to match a neutral nature."
+  },
+  {
+    "name": "Shalour Sable",
+    "category": "Medicine",
+    "effect": "Heals all major status conditions."
+  },
+  {
+    "name": "Sharp Beak",
+    "category": "Hold items",
+    "effect": "Increases the power of Flying-type moves."
+  },
+  {
+    "name": "Sharpedonite",
+    "category": "Hold items",
+    "effect": "Enables Sharpedo to Mega Evolve during battle."
+  },
+  {
+    "name": "Shed Shell",
+    "category": "Hold items",
+    "effect": "A tough, discarded carapace to be held by a Pokémon. It enables the holder to switch with a waiting Pokémon in battle."
+  },
+  {
+    "name": "Shell Bell",
+    "category": "Hold items",
+    "effect": "An item to be held by a Pokémon. The holder's HP is restored a little every time it inflicts damage."
+  },
+  {
+    "name": "Shock Drive",
+    "category": "Hold items",
+    "effect": "Changes Techno Blast to an Electric-type move when held by Genesect."
+  },
+  {
+    "name": "Shuca Berry",
+    "category": "Berries",
+    "effect": "Weakens a supereffective Ground-type attack against the holding Pokémon."
+  },
+  {
+    "name": "Silk Scarf",
+    "category": "Hold items",
+    "effect": "Increases the power of Normal-type moves."
+  },
+  {
+    "name": "Silver Bottle",
+    "category": "",
+    "effect": "A popular option among hikers. It’s made with titanium, so it doesn’t rust even if it’s used to hold drinks with high sodium content."
+  },
+  {
+    "name": "Silver Cup",
+    "category": "",
+    "effect": "A popular option among hikers. It’s made with titanium, so it doesn’t rust even if it’s used to hold drinks with high sodium content."
+  },
+  {
+    "name": "Silver Nanab Berry",
+    "category": "Berries",
+    "effect": "Greatly calms a Pokémon in battle, in Let's Go Pikachu/Eevee."
+  },
+  {
+    "name": "Silver Pick",
+    "category": "",
+    "effect": "A silver pick that oozes class. Using it on a sandwich lends an extravagant air that’ll make you want to eat up, even if you don’t love the fillings."
+  },
+  {
+    "name": "Silver Pinap Berry",
+    "category": "Berries",
+    "effect": "Greatly increases chance of getting items when a Pokémon is caught, in Pokémon Let's Go."
+  },
+  {
+    "name": "Silver Powder",
+    "category": "Hold items",
+    "effect": "Increases the power of Bug-type moves."
+  },
+  {
+    "name": "Silver Razz Berry",
+    "category": "Berries",
+    "effect": "Makes a Pokémon easier to catch in Pokémon Let's Go."
+  },
+  {
+    "name": "Sitrus Berry",
+    "category": "Berries",
+    "effect": "If held by a Pokémon, it heals the user's HP a little."
+  },
+  {
+    "name": "Sky Plate",
+    "category": "Hold items",
+    "effect": "Increases power of Flying-type moves. Changes Arceus' type to Flying."
+  },
+  {
+    "name": "Slowbronite",
+    "category": "Hold items",
+    "effect": "Enables Slowbro to Mega Evolve during battle."
+  },
+  {
+    "name": "Slowpoke Cup",
+    "category": "",
+    "effect": "A cup for big-time Pokémon fans. Kids will happily drink out of it, making it a boon to parents."
+  },
+  {
+    "name": "Smart Candy",
+    "category": "Medicine",
+    "effect": "Increases a Pokémon's Special Attack stat by 1."
+  },
+  {
+    "name": "Smart Candy L",
+    "category": "Medicine",
+    "effect": "Increases a Pokémon's Special Attack stat."
+  },
+  {
+    "name": "Smart Candy XL",
+    "category": "Medicine",
+    "effect": "Increases a Pokémon's Special Attack stat."
+  },
+  {
+    "name": "Smiling Vee Pick",
+    "category": "",
+    "effect": "A pick designed after Eevee, sporting the Pokémon’s smiling face. It’s easy to grab by the ears, which is part of why it’s so popular."
+  },
+  {
+    "name": "Smoke Ball",
+    "category": "Hold items",
+    "effect": "An item to be held by a Pokémon. It enables the holder to flee from any wild Pokémon without fail."
+  },
+  {
+    "name": "Smoked Fillet",
+    "category": "",
+    "effect": "A very salty and bitter ingredient with that unmistakable smoky flavor. It pairs exceptionally well with veggies."
+  },
+  {
+    "name": "Smooth Rock",
+    "category": "Hold items",
+    "effect": "A Pokémon held item that extends the duration of the move Sandstorm used by the holder."
+  },
+  {
+    "name": "Snorlium Z",
+    "category": "Hold items",
+    "effect": "Allows Snorlax to upgrade Giga Impact to a Z-Move, Pulverizing Pancake."
+  },
+  {
+    "name": "Snowball",
+    "category": "Hold items",
+    "effect": "Raises Attack if hit by an Ice-type move."
+  },
+  {
+    "name": "Soda Pop",
+    "category": "Medicine",
+    "effect": "Restores 50 HP."
+  },
+  {
+    "name": "Soft Sand",
+    "category": "Hold items",
+    "effect": "Increases the power of Ground-type moves."
+  },
+  {
+    "name": "Solganium Z",
+    "category": "Hold items",
+    "effect": "Allows Solgaleo to upgrade Sunsteel Strike to a Z-Move, Searing Sunraze Smash."
+  },
+  {
+    "name": "Soothe Bell",
+    "category": "Hold items",
+    "effect": "An item to be held by a Pokémon. It is a bell with a comforting chime that calms the holder and makes it friendly."
+  },
+  {
+    "name": "Soul Dew",
+    "category": "Hold items",
+    "effect": "Increases the power of Psychic- and Dragon-type moves when held by Latios or Latias. Increases Sp.Atk/Sp.Def prior to Gen 7."
+  },
+  {
+    "name": "Soul Slate",
+    "category": "",
+    "effect": "A slate overflowing with enigmatic energy. You can feel a strong connection between it and the Soul Room at Ramanas Park."
+  },
+  {
+    "name": "Sour Herba Mystica",
+    "category": "",
+    "effect": "This surpassingly sour condiment is said to be super effective in helping the eater recover from exhaustion. Only a scant few people know it exists."
+  },
+  {
+    "name": "Spell Tag",
+    "category": "Hold items",
+    "effect": "Increases the power of Ghost-type moves."
+  },
+  {
+    "name": "Spelon Berry",
+    "category": "Berries",
+    "effect": "A Berry which is very rare in the Unova region. A maniac will buy it for a high price."
+  },
+  {
+    "name": "Spicy Herba Mystica",
+    "category": "",
+    "effect": "The legendary condiment said to have the mightiest of all spicy flavors. It’s said that a single bite will kick the metabolism into high gear immediately."
+  },
+  {
+    "name": "Splash Plate",
+    "category": "Hold items",
+    "effect": "Increases power of Water-type moves. Changes Arceus' type to Water."
+  },
+  {
+    "name": "Spooky Plate",
+    "category": "Hold items",
+    "effect": "Increases power of Ghost-type moves. Changes Arceus' type to Ghost."
+  },
+  {
+    "name": "Spooky Tablecloth",
+    "category": "",
+    "effect": "A pop-art-style tablecloth with Pokémon faces floating up from the deep nighttime blue. This is a must-have for fans of Ghost types."
+  },
+  {
+    "name": "Squall Slate",
+    "category": "",
+    "effect": "A slate overflowing with enigmatic energy. You can feel a strong connection between it and the Squall Room at Ramanas Park."
+  },
+  {
+    "name": "Star Sweet",
+    "category": "Hold items",
+    "effect": "Evolves Milcery into Star Flavor Alcremie."
+  },
+  {
+    "name": "Starf Berry",
+    "category": "Berries",
+    "effect": "Sharply raises a random stat when HP is low."
+  },
+  {
+    "name": "Steel Bottle (B)",
+    "category": "",
+    "effect": "A go-to bottle sometimes used while camping. The stainless steel keeps the temperature inside steady, making it great for keeping drinks hot or cold."
+  },
+  {
+    "name": "Steel Bottle (R)",
+    "category": "",
+    "effect": "A go-to bottle sometimes used while camping. The stainless steel keeps the temperature inside steady, making it great for keeping drinks hot or cold."
+  },
+  {
+    "name": "Steel Bottle (Y)",
+    "category": "",
+    "effect": "A go-to bottle sometimes used while camping. The stainless steel keeps the temperature inside steady, making it great for keeping drinks hot or cold."
+  },
+  {
+    "name": "Steel Gem",
+    "category": "Hold items",
+    "effect": "Increases the power of a Steel-type move only once."
+  },
+  {
+    "name": "Steel Memory",
+    "category": "Hold items",
+    "effect": "Changes Silvally and its move Multi-Attack to Steel type."
+  },
+  {
+    "name": "Steel Tera Shard",
+    "category": "",
+    "effect": "Changes a Pokémon's Tera Type to Steel."
+  },
+  {
+    "name": "Steelium Z",
+    "category": "Hold items",
+    "effect": "Allows the use of Corkscrew Crash, the Steel type Z-Move."
+  },
+  {
+    "name": "Steelixite",
+    "category": "Hold items",
+    "effect": "Enables Steelix to Mega Evolve during battle."
+  },
+  {
+    "name": "Sticky Barb",
+    "category": "Hold items",
+    "effect": "A held item that damages the holder on every turn. It may latch on to foes and allies that touch the holder."
+  },
+  {
+    "name": "Stone Plate",
+    "category": "Hold items",
+    "effect": "Increases power of Rock-type moves. Changes Arceus' type to Rock."
+  },
+  {
+    "name": "Stratospheric Slate",
+    "category": "",
+    "effect": "A slate overflowing with enigmatic energy. You can feel a strong connection between it and the Stratospheric Room at Ramanas Park."
+  },
+  {
+    "name": "Strawberry",
+    "category": "",
+    "effect": "A very tart and sweet ingredient, popular for its ability to make a sandwich visually striking."
+  },
+  {
+    "name": "Strawberry Sweet",
+    "category": "Hold items",
+    "effect": "Evolves Milcery into Strawberry Flavor Alcremie."
+  },
+  {
+    "name": "Striped Bottle",
+    "category": "",
+    "effect": "A striped bottle that’s small, light, and even comes with a cup. The detachable strap makes it handy for walking around with."
+  },
+  {
+    "name": "Striped Cup",
+    "category": "",
+    "effect": "A cup for kids to use at picnics. It’s made of light but strong material. It’s stackable, which makes it handy for carrying around."
+  },
+  {
+    "name": "Striped Tablecloth",
+    "category": "",
+    "effect": "A tablecloth with a fashionable striped pattern. It’s great at repelling water and mold, and stains and smudges wipe right off."
+  },
+  {
+    "name": "Sunrise Flower Pick",
+    "category": "",
+    "effect": "A flower pick designed to evoke a glorious sunrise. It’s part of a line of “sky-flower” picks. Using a few is guaranteed to boost that special picnic spirit."
+  },
+  {
+    "name": "Sunset Flower Pick",
+    "category": "",
+    "effect": "A flower pick designed to evoke a blazing sunset. It’s part of a line of “sky-flower” picks. Using a few is guaranteed to boost that special picnic spirit."
+  },
+  {
+    "name": "Super Potion",
+    "category": "Medicine",
+    "effect": "Restores 60 HP."
+  },
+  {
+    "name": "Swampertite",
+    "category": "Hold items",
+    "effect": "Enables Swampert to Mega Evolve during battle."
+  },
+  {
+    "name": "Sweet Apple",
+    "category": "Hold items",
+    "effect": "Evolves Applin into Appletun."
+  },
+  {
+    "name": "Sweet Heart",
+    "category": "Medicine",
+    "effect": "Very sweet chocolate. It restores the HP of one Pokémon by only 20 points."
+  },
+  {
+    "name": "Sweet Herba Mystica",
+    "category": "",
+    "effect": "A legendary condiment told of only in books. Word has it that one taste of its sweet flavor stimulates the digestive system and cures a lack of appetite."
+  },
+  {
+    "name": "Swift Feather",
+    "category": "Medicine",
+    "effect": "Increases Speed EVs by 1."
+  },
+  {
+    "name": "Swift Mochi",
+    "category": "Medicine",
+    "effect": "Increases Speed EVs."
+  },
+  {
+    "name": "Syrupy Apple",
+    "category": "Hold items",
+    "effect": "Evolves Applin into Dipplin."
+  },
+  {
+    "name": "Tamato Berry",
+    "category": "Berries",
+    "effect": "Increases Friendship but lowers Speed EVs."
+  },
+  {
+    "name": "Tanga Berry",
+    "category": "Berries",
+    "effect": "Weakens a supereffective Bug-type attack against the holding Pokémon."
+  },
+  {
+    "name": "Tapunium Z",
+    "category": "Hold items",
+    "effect": "Allows the Tapus to upgrade Nature's Madness to a Z-Move, Guardian of Alola."
+  },
+  {
+    "name": "Tart Apple",
+    "category": "Hold items",
+    "effect": "Evolves Applin into Flapple."
+  },
+  {
+    "name": "Tectonic Slate",
+    "category": "",
+    "effect": "A slate overflowing with enigmatic energy. You can feel a strong connection between it and the Tectonic Room at Ramanas Park."
+  },
+  {
+    "name": "Tera Orb",
+    "category": "",
+    "effect": "An orb that holds within it the power to crystallize. When it is charged with energy, it can be used to cause Pokémon to Terastallize."
+  },
+  {
+    "name": "Terrain Extender",
+    "category": "Hold items",
+    "effect": "An item to be held by a Pokémon. It extends the duration of the terrain caused by the holder's move or Ability."
+  },
+  {
+    "name": "Thick Club",
+    "category": "Hold items",
+    "effect": "Increases Attack when held by Cubone or Marowak."
+  },
+  {
+    "name": "Throat Spray",
+    "category": "Hold items",
+    "effect": "Raises Sp. Atk when a sound-based move is used."
+  },
+  {
+    "name": "Timid Mint",
+    "category": "Battle items",
+    "effect": "Changes the Pokémon's stats to match the Timid nature."
+  },
+  {
+    "name": "Tiny Bamboo Shoot",
+    "category": "",
+    "effect": "A small and rare bamboo shoot. It’s quite popular with a certain class of gourmands."
+  },
+  {
+    "name": "Tofu",
+    "category": "",
+    "effect": "An ingredient with a touch of sweetness. It’s unclear how well this raw block of tofu will serve as a sandwich filling."
+  },
+  {
+    "name": "Tomato",
+    "category": "",
+    "effect": "This very tart ingredient has a lot of savory elements to it, making it popular with many Pokémon."
+  },
+  {
+    "name": "Tough Candy",
+    "category": "Medicine",
+    "effect": "Increases a Pokémon's Defense stat by 1."
+  },
+  {
+    "name": "Tough Candy L",
+    "category": "Medicine",
+    "effect": "Increases a Pokémon's Defense stat."
+  },
+  {
+    "name": "Tough Candy XL",
+    "category": "Medicine",
+    "effect": "Increases a Pokémon's Defense stat."
+  },
+  {
+    "name": "Toxic Orb",
+    "category": "Hold items",
+    "effect": "An item to be held by a Pokémon. It is a bizarre orb that badly poisons the holder in battle."
+  },
+  {
+    "name": "Toxic Plate",
+    "category": "Hold items",
+    "effect": "Increases power of Poison-type moves. Changes Arceus' type to Poison."
+  },
+  {
+    "name": "Twisted Spoon",
+    "category": "Hold items",
+    "effect": "Increases the power of Psychic-type moves."
+  },
+  {
+    "name": "Tyranitarite",
+    "category": "Hold items",
+    "effect": "Enables Tyranitar to Mega Evolve during battle."
+  },
+  {
+    "name": "Ultranecrozium Z",
+    "category": "Hold items",
+    "effect": "Allows Ultra Necrozma to upgrade Photon Geyser to a Z-Move, Light That Burns the Sky."
+  },
+  {
+    "name": "Utility Umbrella",
+    "category": "Hold items",
+    "effect": "An item to be held by a Pokémon. This sturdy umbrella protects the holder from the effects of weather."
+  },
+  {
+    "name": "Vee-Vee Pick",
+    "category": "",
+    "effect": "A pick designed after Eevee, sporting the Pokémon’s usual expression. It’s easy to grab by the ears, which is part of why it’s so popular."
+  },
+  {
+    "name": "Venusaurite",
+    "category": "Hold items",
+    "effect": "Enables Venusaur to Mega Evolve during battle."
+  },
+  {
+    "name": "Vinegar",
+    "category": "",
+    "effect": "A very sour condiment. Vinegars derived from grapes are popular in Paldea. Highly effective when used to add just a light note of flavor."
+  },
+  {
+    "name": "Violet Book",
+    "category": "",
+    "effect": "A record of the expedition that the author, Heath, went on within the Great Crater of Paldea. The book has the name “Turo” written on it in clumsy handwriting."
+  },
+  {
+    "name": "Wacan Berry",
+    "category": "Berries",
+    "effect": "Weakens a supereffective Electric-type attack against the holding Pokémon."
+  },
+  {
+    "name": "Wasabi",
+    "category": "",
+    "effect": "This very spicy condiment seems close to horseradish at first, but you’ll find that it has a superb flavor all its own."
+  },
+  {
+    "name": "Water Gem",
+    "category": "Hold items",
+    "effect": "Increases the power of a Water-type move only once."
+  },
+  {
+    "name": "Water Memory",
+    "category": "Hold items",
+    "effect": "Changes Silvally and its move Multi-Attack to Water type."
+  },
+  {
+    "name": "Water Tera Shard",
+    "category": "",
+    "effect": "Changes a Pokémon's Tera Type to ."
+  },
+  {
+    "name": "Watercress",
+    "category": "",
+    "effect": "A very bitter ingredient that stands out among veggies for its quirky flavor. People tend to either like it or not like it—they rarely sit on the fence."
+  },
+  {
+    "name": "Waterium Z",
+    "category": "Hold items",
+    "effect": "Allows the use of Hydro Vortex, the Water type Z-Move."
+  },
+  {
+    "name": "Watmel Berry",
+    "category": "Berries",
+    "effect": "A Berry which is very rare in the Unova region. A maniac will buy it for a high price."
+  },
+  {
+    "name": "Wave Incense",
+    "category": "Hold items",
+    "effect": "Increases the power of Water-type moves. Breeding Mantine produces Mantyke when held."
+  },
+  {
+    "name": "Weakness Policy",
+    "category": "Hold items",
+    "effect": "Sharply raises Attack and Special Attack if hit by a super-effective move."
+  },
+  {
+    "name": "Wepear Berry",
+    "category": "Berries",
+    "effect": "A Berry which is very rare in the Unova region. A maniac will buy it for a high price."
+  },
+  {
+    "name": "Whimsical Tablecloth",
+    "category": "",
+    "effect": "A tablecloth made in collaboration with a popular picture-book author. The gently drawn Pokémon make even the loveliest picnic table more charming."
+  },
+  {
+    "name": "Whipped Cream",
+    "category": "",
+    "effect": "A very sweet condiment. Folks in Paldea seem to love the varieties that really let the sweetness sing."
+  },
+  {
+    "name": "White Dish",
+    "category": "",
+    "effect": "A dish for picnics. Comes in plenty of colors to choose from based on the food or the mood. The white variety comes recommended by sellers."
+  },
+  {
+    "name": "White Herb",
+    "category": "Hold items",
+    "effect": "An item to be held by a POKéMON. It restores any lowered stat in battle. It can be used only once."
+  },
+  {
+    "name": "Wide Lens",
+    "category": "Hold items",
+    "effect": "Increases the accuracy of moves."
+  },
+  {
+    "name": "Wiki Berry",
+    "category": "Berries",
+    "effect": "Restores HP if it's low, but may cause confusion."
+  },
+  {
+    "name": "Winking Pika Pick",
+    "category": "",
+    "effect": "A Pick-achu, if you will, sporting Pikachu’s winking face. It’s easy to grab by the ears, which is part of why it’s so popular."
+  },
+  {
+    "name": "Wise Glasses",
+    "category": "Hold items",
+    "effect": "Increases the power of Special-category moves."
+  },
+  {
+    "name": "X Accuracy",
+    "category": "Battle items",
+    "effect": "Raises Accuracy of a Pokémon in battle."
+  },
+  {
+    "name": "X Accuracy 2",
+    "category": "Battle items",
+    "effect": "Sharply raises Accuracy of a Pokémon in battle."
+  },
+  {
+    "name": "X Accuracy 3",
+    "category": "Battle items",
+    "effect": "Drastically raises Accuracy of a Pokémon in battle."
+  },
+  {
+    "name": "X Accuracy 6",
+    "category": "Battle items",
+    "effect": "Immensely raises Accuracy of a Pokémon in battle."
+  },
+  {
+    "name": "X Attack",
+    "category": "Battle items",
+    "effect": "Raises Attack of a Pokémon in battle."
+  },
+  {
+    "name": "X Attack 2",
+    "category": "Battle items",
+    "effect": "Sharply raises Attack of a Pokémon in battle."
+  },
+  {
+    "name": "X Attack 3",
+    "category": "Battle items",
+    "effect": "Drastically raises Attack of a Pokémon in battle."
+  },
+  {
+    "name": "X Attack 6",
+    "category": "Battle items",
+    "effect": "Immensely raises Attack of a Pokémon in battle."
+  },
+  {
+    "name": "X Defense",
+    "category": "Battle items",
+    "effect": "Raises Defense of a Pokémon in battle."
+  },
+  {
+    "name": "X Defense 2",
+    "category": "Battle items",
+    "effect": "Sharply raises Defense of a Pokémon in battle."
+  },
+  {
+    "name": "X Defense 3",
+    "category": "Battle items",
+    "effect": "Drastically raises Defense of a Pokémon in battle."
+  },
+  {
+    "name": "X Defense 6",
+    "category": "Battle items",
+    "effect": "Immensely raises Defense of a Pokémon in battle."
+  },
+  {
+    "name": "X Sp. Atk",
+    "category": "Battle items",
+    "effect": "Raises Special Attack of a Pokémon in battle."
+  },
+  {
+    "name": "X Sp. Atk 2",
+    "category": "Battle items",
+    "effect": "Sharply raises Special Attack of a Pokémon in battle."
+  },
+  {
+    "name": "X Sp. Atk 3",
+    "category": "Battle items",
+    "effect": "Drastically raises Special Attack of a Pokémon in battle."
+  },
+  {
+    "name": "X Sp. Atk 6",
+    "category": "Battle items",
+    "effect": "Immensely raises Special Attack of a Pokémon in battle."
+  },
+  {
+    "name": "X Sp. Def",
+    "category": "Battle items",
+    "effect": "Raises Special Defense of a Pokémon in battle."
+  },
+  {
+    "name": "X Sp. Def 2",
+    "category": "Battle items",
+    "effect": "Sharply raises Special Defense of a Pokémon in battle."
+  },
+  {
+    "name": "X Sp. Def 3",
+    "category": "Battle items",
+    "effect": "Drastically raises Special Defense of a Pokémon in battle."
+  },
+  {
+    "name": "X Sp. Def 6",
+    "category": "Battle items",
+    "effect": "Immensely raises Special Defense of a Pokémon in battle."
+  },
+  {
+    "name": "X Speed",
+    "category": "Battle items",
+    "effect": "Raises Speed of a Pokémon in battle."
+  },
+  {
+    "name": "X Speed 2",
+    "category": "Battle items",
+    "effect": "Sharply raises Speed of a Pokémon in battle."
+  },
+  {
+    "name": "X Speed 3",
+    "category": "Battle items",
+    "effect": "Drastically raises Speed of a Pokémon in battle."
+  },
+  {
+    "name": "X Speed 6",
+    "category": "Battle items",
+    "effect": "Immensely raises Speed of a Pokémon in battle."
+  },
+  {
+    "name": "Yache Berry",
+    "category": "Berries",
+    "effect": "Weakens a supereffective Ice-type attack against the holding Pokémon."
+  },
+  {
+    "name": "Yarn Ball",
+    "category": "",
+    "effect": "A small ball of yarn. It’s woven tight so as not to unravel, but even if it were to come undone, at least you could still use the yarn for something."
+  },
+  {
+    "name": "Yellow Bell Pepper",
+    "category": "",
+    "effect": "An ingredient with some bitterness. It’s not much different from its red counterpart in flavor, but mixing the colors makes a feast for the eyes."
+  },
+  {
+    "name": "Yellow Bottle",
+    "category": "",
+    "effect": "A go-to bottle widely used for drinks at picnics. Its simple design and portability make it popular among all sorts of people."
+  },
+  {
+    "name": "Yellow Cup",
+    "category": "",
+    "effect": "A cup sold with the Yellow Bottle. The two don’t stack, so they’re tough to pack—but they look good, so they’re popular with those who like to post picnic photos."
+  },
+  {
+    "name": "Yellow Dish",
+    "category": "",
+    "effect": "A dish for picnics. Comes in plenty of colors to choose from based on the food or the mood. The yellow variety is impossible to go wrong with."
+  },
+  {
+    "name": "Yellow Nectar",
+    "category": "Hold items",
+    "effect": "A flower nectar obtained at Melemele Meadow. It changes the form of certain species of Pokémon."
+  },
+  {
+    "name": "Yellow Tablecloth",
+    "category": "",
+    "effect": "A simple yellow tablecloth. It’s smooth and pleasant to the touch, and dishes can be placed on it with hardly a sound."
+  },
+  {
+    "name": "Yogurt",
+    "category": "",
+    "effect": "A condiment that’s very sweet and very sour. It goes especially well with fruit and is easy to incorporate into a sandwich."
+  },
+  {
+    "name": "Zap Plate",
+    "category": "Hold items",
+    "effect": "Increases power of Electric-type moves. Changes Arceus' type to Electric."
+  },
+  {
+    "name": "Zinc",
+    "category": "Medicine",
+    "effect": "Increases Special Defense EVs by 10."
+  },
+  {
+    "name": "Zoom Lens",
+    "category": "Hold items",
+    "effect": "Raises a move's accuracy if the holder moves after its target."
+  }
+]
