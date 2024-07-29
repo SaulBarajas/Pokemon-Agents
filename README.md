@@ -15,7 +15,7 @@ Building different agents to play through various Pokemon environments. Utilizin
   - Reasoning improvement
     - Implementing different prompting techniques (CoT, Self-Consistency, ToT, Reflexion, ReAct, PreAct)
     - Type Matchups (RAG)
-    - Model Distillation (Fine tuning)
+    - Model Distillation to improve smaller models (Fine Tuning)
   - Environment improvement
     - Finding the most optimal context prompt.
 
