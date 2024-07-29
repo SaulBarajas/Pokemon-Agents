@@ -14,6 +14,8 @@ Building different agents to play through various Pokemon environments. Utilizin
   - LLM Battling (end to end), further optimization is needed
   - Reasoning improvement
     - Implementing different prompting techniques (CoT, Self-Consistency, ToT, Reflexion, ReAct, PreAct)
+    - Type Matchups (RAG)
+    - Model Distillation (Fine tuning)
   - Environment improvement
     - Finding the most optimal context prompt.
 
