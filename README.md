@@ -40,8 +40,5 @@ Building different agents to play through various Pokemon environments. Utilizin
 - Additional environments to be explored
 - Performance benchmarks and comparisons
 
-## Contributing
-Guidelines for those interested in contributing to the project
-
-## License
-Information about the project's license
+## Note
+- Not utilizing Langchain or LlamaIndex to learn without complex abstractions.
